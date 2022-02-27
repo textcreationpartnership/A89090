@@ -1,0 +1,774 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catastrophe Galliæ, or, The French king's fatal downfal predicted to happen in or about the years 1691 or 92 : together with his nativity, calculated according to the rules of astrology : as likewise that of the present emperor of Germany and the grand signior : with probable conjectures upon the Turks new eruptions into Europe : all humbly submitted to the candid and ingenuous sons of art / by J.P. ...</title>
+            <author>Merrifield, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 118 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89090</idno>
+            <idno type="STC">Wing M1845A</idno>
+            <idno type="STC">ESTC R43705</idno>
+            <idno type="EEBO-CITATION">42475116</idno>
+            <idno type="OCLC">ocm 42475116</idno>
+            <idno type="VID">151250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151250)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2252:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Catastrophe Galliæ, or, The French king's fatal downfal predicted to happen in or about the years 1691 or 92 : together with his nativity, calculated according to the rules of astrology : as likewise that of the present emperor of Germany and the grand signior : with probable conjectures upon the Turks new eruptions into Europe : all humbly submitted to the candid and ingenuous sons of art / by J.P. ...</title>
+                  <author>Merrifield, John.</author>
+               </titleStmt>
+               <extent>[8], 40 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rowland Reynolds ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [8].</note>
+                  <note>Advertisements: p. 35 &amp; 40.</note>
+                  <note>Imperfect: stained and torn, with loss of print.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Louis --  XIV, --  King of France, 1638-1715 --  Prophecies.</term>
+               <term>Leopold --  I, --  Holy Roman Emperor, 1640-1705 --  Prophecies.</term>
+               <term>Mehmed --  IV, --  Sultan of the Turks, 1642-1693 --  Prophecies.</term>
+               <term>Muḥammad, --  Prophet, d. 632.</term>
+               <term>Predictive astrology.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151250:1" rendition="simple:additions"/>
+            <p>
+               <hi>CATASTROPHE GALLIAE:</hi> OR THE FRENCH KING's Fatal Downfal, Predicted to happen in or about the Years 1691. or 92. TOGETHER With his Nativity, Calculated according to the Rules of Aſtrology. As likewiſe That of the Preſent EMPEROR of <hi>Germany</hi> and the GRAND SIGNIOR. WITH Probable Conjectures upon the <hi>Turks</hi> new Eruptions into
+<hi>E<g ref="char:V">Ʋ</g>ROPE.</hi> All Humbly Submitted to the Candid and Ingenuous Sons of Art.</p>
+            <p>
+               <hi>By</hi> J. P. <hi>Student in Aſtrology.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Rowland Reynolds,</hi> next the Middle <hi>Exchange</hi> in the <hi>Strand,</hi> 1691.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:151250:2" rendition="simple:additions"/>
+            <pb facs="tcp:151250:2" rendition="simple:additions"/>
+            <head>To the Honourable and ever Loyal, Sir <hi>Edward Dering</hi> of
+<hi>Sharſted,</hi> in the County of <hi>Kent,</hi> Knight, one of His Majeſties <hi>Juſtices</hi> of the <hi>Peace</hi> for the ſaid
+<hi>County.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>AStrology,</hi> as it is a Noble <hi>Science,</hi> (and therefore fit for the Study of the <hi>Nobleſt</hi> of Perſons) hath this Misfortune commonly attends it, <hi>viz.</hi> to ſink and ſuffer for want of <hi>Noble Advocates</hi> and <hi>Pro<g ref="char:EOLhyphen"/>tectors.</hi> Therefore it is (Learned Sir) that I am thus preſumptuous to ſhelter my <hi>mean Endeavours</hi> in that worthy Science, (in oppoſition to one that hath abu<g ref="char:EOLhyphen"/>ſed it) under your gentle <hi>Patronage,</hi> being aſſured that both <hi>Mine</hi> &amp; the
+<hi>Adverſaries</hi> Arguments will be juſtly <hi>weighed</hi> and
+<hi>conſidered</hi> by your more curious <hi>Judgment,</hi> under which I am moſt willing to <hi>ſtand</hi> or <hi>fall.</hi> Your exquiſite Skill in this <hi>Learning</hi> is ſuch, that thereby, like the thrice Excellent Knight Sir <hi>Christopher Hey<g ref="char:EOLhyphen"/>don,</hi> (who defended <hi>Astrology</hi> ſo happily in the <hi>laſt Age</hi>) you are able to <hi>judge</hi> and
+<hi>diſtinguiſh</hi> between Mr. <hi>Holwel</hi>'s bold and
+<hi>fallacious</hi> dealing, under pre<g ref="char:EOLhyphen"/>tence of explaining the meaning of the
+<hi>triple Conjun<g ref="char:EOLhyphen"/>ction of Saturn, and Jupiter in Leo,</hi> wherewith he hath encouraged <hi>Mahomet,</hi> and crucified our <hi>Saviour</hi> afreſh, and my humble <hi>Pains</hi> and <hi>Apology</hi> for the promotion of
+<hi>Chriſtian</hi> Courage, and imbaſing of <hi>Turkiſh</hi> Pow<g ref="char:EOLhyphen"/>er, in expounding the <hi>ſame Conjunction.</hi>
+            </p>
+            <p>Be not offended, (I pray Sir) if I am bold to tell <pb facs="tcp:151250:3"/> the World, and your Honoured <hi>Self</hi> together, that you are the only
+<hi>Perſon</hi> of <hi>Loyalty,</hi> (that I know of) fit to be my
+<hi>Judge</hi> in this Matter, as having for many years, among other <hi>Nobler Employments,</hi> diverted your ſelf alſo with this <hi>abſtruſe Science,</hi> even before the hap<g ref="char:EOLhyphen"/>py <hi>Reſtauration</hi> of his moſt
+<hi>Sacred Majeſty,</hi> and all the <hi>Royal Party,</hi> and by your well-grounded <hi>Confidence</hi> therein, you kept <hi>many</hi> of
+<hi>Them</hi> (when beyond Sea) from <hi>deſponding,</hi> with your
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and an <hi>Aſſu<g ref="char:EOLhyphen"/>rance</hi> of the <hi>Return</hi> of <hi>Monarchy</hi> into <hi>England</hi> again; which more than common <hi>Preſage</hi> was (to <hi>Yours</hi> and
+<hi>Astrologies</hi> Honour) happily verified in the year 1660. and for the Hopes you conceived of that <hi>happy Year,</hi> you affirmed your
+<hi>Loyalty,</hi> even in the worſt of <hi>Times,</hi> thereby
+<hi>hazarding</hi> your <hi>Self</hi> to become a <hi>Victim</hi> for the
+<hi>Truth</hi> you had ſo happily <hi>avowed.</hi> Nay, ſo ob<g ref="char:EOLhyphen"/>liging a Patron and <hi>Maecenas</hi> have <hi>You</hi> been, to the Glories of
+<hi>Urania,</hi> that to your Pains and Search all the Sons of Art owe the Knowledge of that Illuſtri<g ref="char:EOLhyphen"/>ous Geniture of the Great <hi>Carolus Guſtavus,</hi> late <hi>King</hi> of <hi>Sweden,</hi> which you, Sir, firſt tranſmitted out of <hi>Ger<g ref="char:EOLhyphen"/>many</hi> into <hi>England,</hi> at that
+<hi>time</hi> when the victorious Arms of that King were the Aſtoniſhment of almoſt all Chriſtendom: Which hapning into the Hands of my worhy Friend, Mr. <hi>John Gadbury,</hi> by making ſome <hi>Remarks</hi> upon, and
+<hi>printing</hi> it, (as I have heard <hi>Him</hi> ſay) was <hi>one</hi> of the <hi>principal Cauſes</hi> of His (as he was pleaſed to call it,
+<hi>Little</hi> but <hi>envied</hi>) <hi>Fame</hi> in the <hi>World;</hi> ſo happy have <hi>You</hi> been to <hi>Art</hi> and <hi>Artiſts,</hi> even
+<pb facs="tcp:151250:3"/> then <hi>unknown</hi> to <hi>You,</hi> as if <hi>You</hi> were
+<hi>born</hi> to <hi>befriend</hi> not only <hi>Astrology</hi> it ſelf, but
+<hi>all</hi> its <hi>honeſt Profeſſors</hi> too.</p>
+            <p>Neither let me forget to mention it; That <hi>You</hi> (Honoured Sir) in our now <hi>later Times</hi> of <hi>Confuſion</hi> and
+<hi>Diſorder,</hi> have ſtood <hi>firm</hi> to <hi>your Principles,</hi> in
+<hi>adhe<g ref="char:EOLhyphen"/>ring</hi> and paying <hi>Homage</hi> to that <hi>Monarchy,</hi> whoſe <hi>Re<g ref="char:EOLhyphen"/>turn,</hi> by this <hi>Art,</hi> you had happily
+<hi>encouraged;</hi> and are alſo the <hi>only Perſon</hi> of your
+<hi>Name</hi> and <hi>Family,</hi> that have <hi>ſhew'd</hi> your
+<hi>Loyalty</hi> by <hi>Addreſſing,</hi> when it was little leſs than
+<hi>Treaſon</hi> againſt that <hi>Monſter</hi> the <hi>Republican,</hi> and <hi>Antimonarchical</hi> Intereſt, ſo to do, and you have
+<hi>dared</hi> to own and to teach the <hi>World</hi> this <hi>Maxim, That Loyalty to the King, and a dutiful Regard to His Royal Highneſs, are inſeparable.</hi> Pardon (good Sir) my <hi>Freedom</hi> in mentioning
+<hi>theſe Things,</hi> (for <hi>loyal Actions</hi> no more than <hi>loyal Perſons,</hi> ought never to be <hi>forgotten</hi>) and <hi>ex<g ref="char:EOLhyphen"/>cuſe</hi> my humble <hi>Boldneſs,</hi> in making uſe of your <hi>No<g ref="char:EOLhyphen"/>ble Name,</hi> and give me <hi>leave</hi> to end all with this <hi>cordial Vote,</hi> viz.
+<hi>That Monarchy may have more ſuch Friends,</hi> and <hi>Aſtrology more ſuch Defenders:</hi> So prayeth, (ever Ho<g ref="char:EOLhyphen"/>noured Sir)</p>
+            <closer>
+               <signed>Your humbleſt Servant and Votary, <hi>John Merrifield.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151250:4"/>
+            <head>To the Impartial READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>IT having been my Chance, (amongſt the reſt of my manifold Studies) to light of a ſmall Book, entitled, <hi>An Appendix to</hi> Holwel's
+<hi>Cataſtrophe Mundi,</hi> on which careleſly caſting mine Eye, I beheld all Chriſtendom, or at leaſt the greateſt part of it, over-run, or ſpeedily to be over-run with <hi>Turks,</hi> which put me into a very great Amazement, to behold the Hand of the Lord ſo ſorely ſtretched out againſt thoſe Nations which do pro<g ref="char:EOLhyphen"/>feſs the Name of Chriſt, and do acknowledge him to be the Son of God, and Saviour of the World: and doubting in my ſelf, the Author of the ſaid Book might have any divine Revelation of Propheſie againſt thoſe Nations, as <hi>Jonah</hi> had againſt
+<hi>Nine<g ref="char:EOLhyphen"/>veh,</hi> and as the other Prophets had before Chriſt came in the Fleſh; but conſidering that Chriſt came to fulfil the Law, I thought whether this <hi>Holwel</hi> might be a Prophet of <hi>Mahomet,</hi> to encourage the <hi>Turks,</hi> and to diſhearten the <hi>Chriſtians,</hi> as all <hi>Ahab's</hi> Prophets did, <hi>Micaiah</hi> excepted, encourage
+<hi>Ahab</hi> to go to <hi>Ramoth gilead,</hi> which were in compariſon no more than <hi>Mahometal</hi> Prophets poſſeſs'd with lying Spirits, which cauſed <hi>Ahab</hi> to go to <hi>Ramoth-gilead</hi> there to be ſlain, as the <hi>Turks</hi> fell at <hi>Vienna.</hi> But taking a more ſerious View of it, I found it to be predicted Aſtrologically, and then I was reſolved to peruſe it more carefully, whereby to ſee if ſuch Judgements were determi<g ref="char:EOLhyphen"/>nate by the celeſtial Influences, according to ſecondary Cauſes, not doubting of a divine Providence of God over Chriſtendom, againſt the tyrannical <hi>Turks,</hi> and Power of <hi>Mahomet.</hi> And alſo I ſoon procured <hi>Holwel's Cataſtrophe Mundi</hi> it ſelf, and with a careful and judicial Eye I thorowly peruſed them both, and found it judged not really from Aſtrology, but rather from Fancy; I alſo found many Miſtakes, both in the time of the Nativities of thoſe magnanimous Princes there mentioned, and in many other places, which I ſhall hereafter make appear, and give you
+<pb facs="tcp:151250:4"/> the true Nativities, with an Aſtrological Diſcourſe thereon ſhewing you how that the <hi>Turks</hi> ſhall not over-run Chriſtendom, neither ſhall the <hi>French</hi> King come to be the pooreſt Prince in the World, as Mr. <hi>Holwel</hi> in his <hi>Appendix</hi> ſaith he ſhall. But I ſhall ſhew Aſtrologically, what may be the Fate of thoſe Nati<g ref="char:EOLhyphen"/>ons, both by the true Nativities of their Emperours, Kings, &amp;c. and by the Effects of Conjunctions, Comets, and other Configurati<g ref="char:EOLhyphen"/>ons; ſhewing my Reader a more fafe and rational way of Judge<g ref="char:EOLhyphen"/>ment of the Effects of theſe Configurations, than Mr. <hi>Holwel</hi> ſheweth, in either his
+<hi>Cataſtrophe Mundi,</hi> or his <hi>Appendix,</hi> which he hath written, to make ignorant People believe that the World ſhould be turned immediately upſide down, by means of the Conjunction of <hi>Saturn</hi> and
+<hi>Jupiter</hi> in <hi>Leo,</hi> 1682. and of the Comet that appeared in 1680. But let Mr. <hi>Holwel</hi> as well as my Reader know, that there have been ſuch Conjunctions and Co<g ref="char:EOLhyphen"/>mets before theſe, which have had Effects bad enough, but far different from what Mr. <hi>Holwel</hi> writes of theſe, and therefore unlike to be true; but I will ſhew you what hath hapned upon ſuch Configurations already paſt, and my Judgement on thoſe lately hapned for the time to come.</p>
+            <p>The Scheam of the Nativity of the <hi>French</hi> King, is the ſame that <hi>Morinus</hi> his own Phyſician publiſhed in his
+<hi>Aſtrologia Gal<g ref="char:EOLhyphen"/>lica,</hi> and ſince printed in Mr. <hi>Gadbury's</hi> Defence of <hi>Scorpio;</hi> that of the <hi>Grand Seignior</hi> is taken out of Mr. <hi>Gadbury's</hi> Book <hi>de Cometis,</hi> but the Scheams of the Nativity of <hi>Mahomet,</hi> Author of the <hi>Turks</hi> Faith, and that of the <hi>German</hi> Emperour, I had of my very good Friend Mr. <hi>John Gadbury's</hi> own Hand, which he affirms to be the true ones, for which I return him my hearty thanks.</p>
+            <p>And thus, courteous Reader, I have ſhewed thee, according to the perfect Rules of Aſtrology, the Fate that <hi>Europe</hi> will be like to undergo for near this twenty years yet to come, both by the Nativities of ſome of her moſt Noble Princes, the amazing Co<g ref="char:EOLhyphen"/>met, in 1680, and the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> 1682, which I do not queſtion but Time will manifeſt to be true: And in the mean time I crave nothing but thy kind accep<g ref="char:EOLhyphen"/>tance, <pb facs="tcp:151250:5"/> judicial peruſing, careful obſervation of the Effects for the future, and thy judgement of it according to its merits, and this will encourage me to preſent thee with ſomething of greater Conſequence; till then farewel.</p>
+            <closer>
+               <signed>John Merrifield.</signed> 
+               <dateline>From my Houſe at the <hi>Hand</hi> and <hi>Pen</hi> at the lower end of
+<hi>Horſly<g ref="char:EOLhyphen"/>down,</hi> near the Dock<g ref="char:EOLhyphen"/>head in <hi>Southwark, London,</hi>
+                  <date>♀ Feb. 22. 1683/4.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 4. line 13. for <hi>Aſcendent</hi> read <hi>ſecond.</hi> p. 6. l. 25. for <hi>thing</hi> r. <hi>think.</hi> p. 9. l. 33. r. <hi>Religion (excepting that of chriſt againſt which the Gates of Hell ſhall not prevail.</hi> p. 12. for 60. r. <hi>Co-Anticians.</hi> p. 16. l. 1. dele
+<hi>by.</hi> p. 20. l. 32. r. <hi>St. Stephen.</hi> p. 25. l. 1. for
+<hi>heart</hi> r. <hi>hearts.</hi> p. 26. l. 3. dele <hi>Chriſt.</hi> p. 27. l. for <hi>too</hi> r. <hi>to.</hi> p. 11. l. 11. for <hi>Joſeph</hi> r.
+<hi>Joſephus,</hi> for <hi>Falicimus</hi> r. <hi>Ferdinandus.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151250:5"/>
+            <head>
+               <hi>CATASTASIS M<g ref="char:V">Ʋ</g>NDI:</hi> OR, The true STATE, VIGOR, and growing Greatneſs of Chriſtendom, under the Influences of the laſt triple Conjunction of <hi>Saturn</hi> and <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> in <hi>Leo,</hi> the late Comet, <hi>&amp;c.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>Treating of the Riſe of the <hi>Ottoman</hi> Family, which is accounted to be the Foundation of the <hi>Turks</hi> Empire.</p>
+               </argument>
+               <p>IF we take the Original, or Beginning of the <hi>Turks</hi> Empire, to be from the <hi>Ottoman</hi> Family, as I ſuppoſe we juſtly may (al<g ref="char:EOLhyphen"/>though they had many Riſings and Fallings, after they left their Native Countrey, <hi>Anno Dom.</hi> 844. and were then called
+<hi>Scythians</hi>) for <hi>Ottoman</hi> taking upon him the Government of the
+<hi>Turks,</hi> he firſt founded this great Empire, in the year of Chriſt,
+1289. at which time, <hi>Saturn</hi> was in <hi>Piſces;</hi> and Authors tell us, that <hi>Turky,</hi> or the greateſt part of it, lies under
+<hi>Capricorn,</hi> and therefore governed by <hi>Saturn.</hi> And according to the Rules of Aſtrology, <hi>Saturns</hi> greateſt years are 465. which added to 1289. will make 1754. therefore this Monarchy ſeemeth to ſtand firm and ſtable no longer then unto the year of Chriſt, 1754. but as it hath hitherto had at ſome times Riſings, and at other times Dimi<g ref="char:EOLhyphen"/>niſhings, ſo it will be like to continue; and had not <hi>Saturn</hi> at his Conjunction with <hi>Jupiter,</hi> been in <hi>Aquarius</hi> his own Houſe, and a fixed Sign, a little before the beginning of this Empire, it
+<pb n="2" facs="tcp:151250:6"/> had not continued ſo long: But to take the time of this Con<g ref="char:EOLhyphen"/>junction, and to work by directions from the New Moon prece<g ref="char:EOLhyphen"/>ding, to find the Time of the good or evil Events of this Empire, I think it frivolous and vain, and an Abuſe to Aſtrology (as Mr. <hi>Holwel</hi> hath done) for would not any rational man think it great Folly or Madneſs in an Artiſt, to calculate a Childs Nativity, and take the time thereof, four months before it was born, or firſt drew breath in the World? but Mr. <hi>Holwel</hi> hath taken the Nativi<g ref="char:EOLhyphen"/>ty of the <hi>Turks</hi> Empire, four years before it began, as he himſelf hath written; but neither the Day nor Hour being (as I ſuppoſe) known, nor attainable, when this Empire was firſt eſtabliſhed by a Law; therefore to know when this Empire ſhall be moſt Ho<g ref="char:EOLhyphen"/>nourable and Succeſsful, or moſt miſerable and unſucceſsful, con<g ref="char:EOLhyphen"/>ſider carefully the Nativities of the Emperors, and chief Com<g ref="char:EOLhyphen"/>manders thereof, and an able Artiſt may give a good Aſtrologi<g ref="char:EOLhyphen"/>cal Judgment of the Succeſs of that Empire, during his Reign; for as a King or Emperor is the Head, and his People the Mem<g ref="char:EOLhyphen"/>bers, ſo the Head cannot ſuffer Affliction, but the Members muſt partake with it; and what Increaſing, Decreaſing, Ebbing and Flowing have happened in this Empire in times paſt, Hiſtory relates at large; and therefore I ſhall not here mention it, leſt my Book ſwell beyond my Expectation; for I intend not to write a large-Folio, but a few Sheets, to ſhew the World that there is a more certain way of judging the State of a Nation, than Mr. <hi>Holwel</hi> hath uſed in his
+<hi>Cataſtrophe Mundi,</hi> or in his <hi>Appendix</hi> there<g ref="char:EOLhyphen"/>to. The future ſtate of an Empire or Kingdom, may alſo be judg<g ref="char:EOLhyphen"/>ed, from the Conjunctions of the ſuperior Planets, Comets, E<g ref="char:EOLhyphen"/>clipſes, and Solar Ingreſſes; all which I ſhall give a hint at, which I hope I may do without offence.</p>
+               <p>And firſt, I will here inſert the true Nativity of the
+<hi>Grand Seignior,</hi> the preſent Emperor of the <hi>Turks;</hi> and it is the ſame which Mr. <hi>Gadbury</hi> hath in his Book <hi>de Cometis;</hi> which I alter only three Degrees on the <hi>Medium Coeli,</hi> and dare affirm it to be the trueſt that is attainable, as I ſhall prove by ſeveral Accidents.</p>
+               <p>The Nativity that Mr. <hi>Holwel</hi> hath taken, cannot be the true time, becauſe the Accidents which have already happened will not admit of <hi>Sagittary</hi> to aſcend in the Nativity of that Illuſtrious Prince.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="3" facs="tcp:151250:6"/>
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>Treating on the Nativity of <hi>Sultan Mahomet,</hi> the
+<hi>Turks</hi> Grand Seignior.</p>
+               </argument>
+               <figure>
+                  <figDesc>astrological chart</figDesc>
+                  <p>
+                     <hi>Sultan Mahomet Ham,</hi> was born <hi>January</hi> the
+1ſt. 7h. 26′ A. M.</p>
+                  <p>Lat. 43 deg.</p>
+                  <p>☾. ☌. ☉ add V. Cour.</p>
+               </figure>
+               <p>
+                  <hi>SUltan Mahomet Ham,</hi> the preſent Empe<g ref="char:EOLhyphen"/>ror of the
+<hi>Turks,</hi> was born at <hi>Conſtantinople,</hi> on the firſt day of
+<hi>Ja<g ref="char:EOLhyphen"/>nuary,</hi> 1641/2;. 26 minutes paſt 7 in the Morning.</p>
+               <p>That this is a moſt Illuſtrious Nativity, here are many eminent Teſtimonies, as may be ſeen by the Poſition of <hi>Jupiter,</hi> the Sun, Moon, and part of <hi>Fortune</hi> in the Aſcen<g ref="char:EOLhyphen"/>dent, and other Teſti<g ref="char:EOLhyphen"/>monies, which I will here omit, and proceed to the general fate of the Native; this Scheme was taken out of the Book <hi>de Cometis,</hi> written by my ve<g ref="char:EOLhyphen"/>ry good Friend Mr. <hi>John Gadbury.</hi>
+               </p>
+               <p>The Sun, <hi>Jupiter</hi> and the Moon, in the Aſcendent, are ſure Teſtimonies of Honour, both from great and eminent Perſons, as alſo from the vulgar People, it makes him extreamly proud, ſo that he will eſteem none ſo good as himſelf, but will be apt to quarrel with thoſe of his neighbouring Nations; but the Moon in this Nativity, applies to void of Courſe, ſhewing moſt of his Un<g ref="char:EOLhyphen"/>dertakings to be unfortunate; in this Nativity, <hi>Saturn,</hi> Lord of the Aſcendent, is in ſquare of
+<hi>Mars,</hi> Lord of the tenth Houſe, the Houſe of Honour, ſo will he himſelf act ſomething that will be prejudicial to his own Honour.
+<hi>Mars,</hi> Lord of the Tenth, is in the Eleventh, the Houſe of Friendſhip, and there in Conjuncti<g ref="char:EOLhyphen"/>on of <hi>Venus;</hi> ſhewing the Native will have many Friends, that will procure Honour to him by their means, which will be Lea<g ref="char:EOLhyphen"/>ders <pb n="4" facs="tcp:151250:7"/> and Generals of his Armies, the rather, becauſe <hi>Mars</hi> is Lord of the eleventh Houſe, the Houſe of Friendſhip; but <hi>Jupiter</hi> Lord of the Twelfth, is in the Aſcendent, ſhewing that he will have ſe<g ref="char:EOLhyphen"/>cret Enemies about his own Houſe or Palace, and that there will be many Seditions and Tumults raiſed againſt him, by his own Sub<g ref="char:EOLhyphen"/>jects, but they will not prevail againſt him, but will be defeated in their Deſigns.</p>
+               <p>The Lord of the Eleventh, is in ſquare to the Lord of the Aſ<g ref="char:EOLhyphen"/>cendent, which will cauſe the Friends of the Native to prove de<g ref="char:EOLhyphen"/>ceitful to him. <hi>Saturn,</hi> Lord of the Aſcendent, poſited in the Second, ſhews the Native to uſe induſtry to increaſe his Sub<g ref="char:EOLhyphen"/>ſtance, and to inlarge his Territories; but <hi>Saturn</hi> is an Infortune by Nature, and by being poſited in the Aſcendent, will rather de<g ref="char:EOLhyphen"/>ſtroy the Natives Subſtance, and diminiſh his Empire; the <hi>Dra<g ref="char:EOLhyphen"/>gons Tail,</hi> in the Third, makes his Inland Journies not to be very Fortunate, therefore not much like to inlarge his Dominions by Land-Armies; but <hi>Saturn</hi> muſt be ſpiteful, though he be defeated of his Enterpriſe; as the Moon is Combuſt, ſo hath he been all his Life-time in Combuſtions and Troubles, even from his Mino<g ref="char:EOLhyphen"/>rity; his Sea-Affairs ſeem more ſucceſsful than his Land-Affairs do, yet he hath had his Affairs by Sea often defeated by the
+<hi>Venetians,</hi> which have taken, ſunk and burned, many of his Ships and Galleys.</p>
+               <p>The Moon, Lady of the ſeventh Houſe, the Houſe of publick Enemies, is ſtronger then <hi>Saturn,</hi> Lord of the Aſcendent, ſhewing that he ſhall not prevail againſt them, neither will his Enemies be apt to quarrel with him, ſeeing the Moon, Lady of the Seventh, is in Sextile to
+<hi>Saturn,</hi> Lord of the Aſcendent; but he diſpoſing of the Moon in the Aſcendent, and in the Sign of the Aſcendent, makes him think that he can over-power the whole World, and eſpecially Chriſtendom; not conſidering the Moon is in her own Triplicity, and in an Angle, and therefore not to be prevailed a<g ref="char:EOLhyphen"/>gainſt; for though Mr. <hi>Holwel,</hi> in his
+<hi>Appendix,</hi> page the 25<hi>th:</hi> ſaith, that the <hi>Turk</hi> is ordained within a few years, to gain a great part of Chriſtendom, yet I do aver, that according to the Rules of Aſtrology, they ſhall not gain one foot of Land in Chriſten<g ref="char:EOLhyphen"/>dom, but what they ſhall pay dear Sawce for (let them have a care they loſe none of their own) for I would have Mr.
+<hi>Holwel,</hi> as well as my Reader know, that the influences of the Stars, have not limited ſo ſhort a continuance for the Chriſtian Religion.</p>
+               <p>
+                  <pb n="5" facs="tcp:151250:7"/>But the main thing that provoked this Emperor to give ſuch an Alarm, againſt Chriſtendom in general, and
+<hi>Vienna</hi> in particular, are, becauſe about this time, he had the Sun, Moon and Aſcen<g ref="char:EOLhyphen"/>dent directed to the Square of <hi>Mars,</hi> and
+<hi>Germany</hi> being under <hi>A<g ref="char:EOLhyphen"/>ries,</hi> drew him with a vaſt Hoſt that way, ſuppoſing that <hi>Germa<g ref="char:EOLhyphen"/>ny</hi> had been his own with little or no Reſiſtance, and ſo his Ambi<g ref="char:EOLhyphen"/>tion was againſt <hi>Rome, Italy, France, Spain,</hi> and all Chriſtendom; but let not him boaſt that putteth on his Armour, but he that puts it off.</p>
+               <p>But had Mr. <hi>Holwel</hi> rightly underſtood the Grounds of Aſtro<g ref="char:EOLhyphen"/>logy, he might have rectified his Scheme by Accidents, and he might eaſily have ſeen, that there had been but little hope, that the
+<hi>Sultan</hi> ſhould gain Honour, or enlarge his Territories about this time by the Sword, nor need he have judged <hi>Vienna</hi> to be ta<g ref="char:EOLhyphen"/>ken upon ſuch Directions; but that is like the reſt of his nonſenſi<g ref="char:EOLhyphen"/>cal ſtuff. I have wrought out the Directions of this Nativity, and will acquaint you with ſome of them, to ſhew thereby the truth of the Scheme, and others, what Fate the <hi>Grand Seignior</hi> is yet like to undergo.</p>
+               <p>In the year 1648. on the 17<hi>th.</hi> of <hi>Auguſt, Ibrim,</hi> Father of this preſent Emperor of the <hi>Turks,</hi> was ſtrangled in Priſon, and his Son <hi>Mahomet</hi> being not full ſeven years of age, was proclaimed Emperor in his Fathers ſtead; but he being in his Minority, the Government was wholly left to his Mother, who, by the Advice of the Councel, took on her the Regency; he had then the Mid<g ref="char:EOLhyphen"/>heaven directed to the Sextile of the Sun and Moon; when he was about nine years of age, he had his Mid-heaven to the ſquare of <hi>Mars,</hi> then were Domeſtick Troubles, as well as Loſs by the <hi>Ve<g ref="char:EOLhyphen"/>netian</hi> War; he was for the moſt part of his Life healthful of body, but he hath often been unfortunate in War, although he have had many good Directions of both the Sun, Moon and Aſcendent; but the general fate of his Nativity, and the many ill Directions of the Mid-heaven, hath made him often unſucceſful in War.</p>
+               <p>At ſeventeen years of Age, he took on him the Regency, about which time he had his Aſcendent, Sun and Moon, directed to the Anticians of
+<hi>Mars.</hi>
+               </p>
+               <p>About twenty one years of age, he had the Aſcendent, Sun and Moon, to the Sextile of <hi>Mars;</hi> then was great care taken for the carrying on the War, both againſt <hi>Tranſilvania, Hungary</hi> and
+<hi>Venice.</hi>
+               </p>
+               <p>
+                  <pb n="6" facs="tcp:151250:8"/>About the year 1669. came the Aſcendent, Sun and Moon, to the Sextile of <hi>Venus,</hi> and ſoon after, to the body of
+<hi>Jupiter;</hi> then was concluded Peace with the <hi>Venetians,</hi> and he prevailed in War againſt the <hi>Polanders,</hi> and he much delighted himſelf in Pleaſures and Recreations; but about the ſame time, he had his Mid-hea<g ref="char:EOLhyphen"/>ven to the Conjunction of <hi>Mars,</hi> and ſee the effects of it; for in the year 1673. the <hi>Poles</hi> deny paying to the <hi>Turk</hi> their promiſed Tribute; General <hi>Sobieski,</hi> now King of <hi>Poland,</hi> fell upon the <hi>Turks</hi> Camp, then under the Command of
+<hi>Chuſalin</hi> and other <hi>Ba<g ref="char:EOLhyphen"/>ſhaws,</hi> killed about twenty five thouſand of their Men, with moſt of their Officers; this was very conſiderable; for beſides the or<g ref="char:EOLhyphen"/>dinary Baggage, they took two thouſand Purſes of Money, that were brought to pay the Souldiers, and twenty five thouſand Wag<g ref="char:EOLhyphen"/>gons of Proviſion and Ammunition; and about this time, he had the Mid-heaven to the ſquare of <hi>Saturn,</hi> Lord of his own Aſcendent.</p>
+               <p>But ſince that time, he hath had the Mid-heaven directed to the Conjunction of <hi>Venus,</hi> and to the Sextile of <hi>Jupiter,</hi> alſo the Sun, Moon and Aſcendent to the Sextile of <hi>Mercury,</hi> which hath lifted up his heart with Pride; but to abate his haughtineſs, in this year 1683. he hath the Sun, Moon, and Aſcendent, directed to the ſquare of
+<hi>Mars,</hi> Lord of both his Houſe of Honour and Friends; <hi>Mars</hi> is alſo Lord of the third Houſe, ſhewing that his profeſſed Friends will be at variance, and break their Leagues with him, and ſo will ſome of his neighbouring Nations, to his great Loſs. Surely a great Overſight in Mr.
+<hi>Holwel,</hi> to thing the <hi>Grand Seignior</hi> ſhould over<g ref="char:EOLhyphen"/>run Chriſtendom, upon ſuch Directions, yet he will certainly come againſt Chriſtendom again.</p>
+               <p>About the year, 1687. he hath the Sun, Moon and Aſcendent, directed to the Body of <hi>Saturn;</hi> I cannot poſitively ſay that he will loſe his Life then about; but I am certain he will undergo Afflicti<g ref="char:EOLhyphen"/>ons of body, and all his Affairs go unſucceſsful for ſome conſi<g ref="char:EOLhyphen"/>derable time; he hath alſo about the ſame time, the Mid-heaven directed to the Co-Antiſcians of the Sun; ſure, under theſe Di<g ref="char:EOLhyphen"/>rections, the
+<hi>Chriſtians</hi> may regain what the <hi>Turks</hi> formerly took from them; and thus much of the Nativity of this great Prince. I will in the next place, inſert the Nativity of that grand Impoſtor <hi>Mahomet,</hi> the Author of the <hi>Turks</hi> Faith, ſhewing thereby, how ſome men are born to make and forge Lies, as he did, and others born to believe them.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="7" facs="tcp:151250:8"/>
+               <head>CHAP. III.</head>
+               <figure>
+                  <figDesc>astrological chart</figDesc>
+                  <p>
+                     <hi>Mahomet,</hi> Author of the <hi>Turks</hi> Faith, born
+<hi>April</hi> the 24th. 6h. 30′ <hi>P. M.</hi> Anno Chriſti, 569. Latitude 41d.</p>
+                  <p>☾ <g ref="char:trine">△</g> ♄ add <g ref="char:quadrine">□</g> ☿</p>
+               </figure>
+               <p>THis Scheme of the Nativity of <hi>Ma<g ref="char:EOLhyphen"/>homet,</hi> the Author of the <hi>Turks</hi> Faith or Religion, accords to the time gi<g ref="char:EOLhyphen"/>ven by the learned Do<g ref="char:EOLhyphen"/>ctor <hi>Addiſon,</hi> and is very like to be true, becauſe it was ever (by Aſtrolo<g ref="char:EOLhyphen"/>gers) concluded that the Turkiſh Faith, firſt roſe under
+<hi>Scorpio</hi> and <hi>Mars,</hi> as the Chriſtian Reli<g ref="char:EOLhyphen"/>gion did under the
+<hi>Sun</hi> and <hi>Jupiter.</hi> I was pre<g ref="char:EOLhyphen"/>ſented with this Scheme by my Friend and Tu<g ref="char:EOLhyphen"/>tor, Mr. <hi>John Gadbury,</hi> who alſo believes it true.</p>
+               <p>Moſt Writers accord, that <hi>Mahomet</hi> was born in
+<hi>Mecca,</hi> a City in <hi>Arabia the happy,</hi> and Son of
+<hi>Abdalla,</hi> a Merchant, his Mother <hi>Hemina,</hi> a <hi>Jew:</hi> his Parents died when he was young, and after their Deceaſe, he was brought up by his Uncle; at ſixteen years old, he was bound to a Merchant, named
+<hi>Abdalmutalif,</hi> who find<g ref="char:EOLhyphen"/>ing him a witty Lad, made him his Factor; afterwards his Maſter dying, he married his Miſtreſs, and until thirty eight years of age, he followed his Merchandiſe, travelling into many Countries, where being ſatisfied with Wealth, he began to think of high things, for he was a curious ſearcher into both the <hi>Jews</hi> and
+<hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> Religion, being himſelf brought up a <hi>Pagan;</hi> but Pride en<g ref="char:EOLhyphen"/>flamed his heart, and wrought in him a deſire to be taken for a Prophet; and to make men believe that he was a real Prophet, he made uſe of his Diſeaſe which he was often troubled withal, that was the Falling-ſickneſs; for he gave out, that when he fell in thoſe Fits, that he then conferred with the Angel <hi>Gabriel,</hi> by whom the pleaſure of God was revealed to him; and thus by his Deluſions, he perſwaded the People, ſo that they believed him to <pb n="8" facs="tcp:151250:9"/> be a real Prophet (or rather a God) and do ever ſince honour and eſteem him ſo to be.</p>
+               <p>Now that this <hi>Mahomet</hi> ſhould be ſo much honoured and eſteemed, may be thought ſtrange; but if we do but conſider the ignorance of People in thoſe days, and in thoſe Countries, we need not much ſcruple at it; for the Heathens worſhipped the Sun, Moon and Stars, eſteeming them to be Gods, becauſe they knew not the true God; nay, ſome were more ignorant, and worſhipped Stocks and Stones, alſo Images which their own hands had wrought, eſteem<g ref="char:EOLhyphen"/>ing them to be Gods; alſo the
+<hi>Iſraelites,</hi> unto whom God manifeſt<g ref="char:EOLhyphen"/>ed himſelf by many Miracles, Signs and Wonders, and titled them his own People, they believed not in him, but made to themſelves a Molten Calf, and worſhipped it; ſaying,
+<hi>theſe be thy Gods,</hi> O Iſrael, <hi>which brought thee out of the Land of</hi> Aegypt, al<g ref="char:EOLhyphen"/>though they knew that they came out of <hi>Aegypt</hi> a long time be<g ref="char:EOLhyphen"/>fore they made it; therefore, no wonder that the <hi>Turks,</hi> which were of the Seed of <hi>Ham,</hi> that wicked Son of <hi>Noah,</hi> whom his Fa<g ref="char:EOLhyphen"/>ther curſed, ſhould eſteem ſuch a lying Impoſtor as
+<hi>Mahomet</hi> was, for a God or Saviour; for Hiſtory plainly ſaith, that after the Death of <hi>Noah, Ham</hi> went into <hi>Africa,</hi> and there ſetled his A<g ref="char:EOLhyphen"/>bode, and from his Poſterity ſprang the <hi>Turks,</hi> a ſort of People, much of his own nature; and here in the Nativity of this Im<g ref="char:EOLhyphen"/>poſtor <hi>Mahomet,</hi> we find the Regal Sign <hi>Leo,</hi> on the
+<hi>Medium Coeli,</hi> and <hi>Jupiter,</hi> the greater Fortune, therein poſited, a moſt emi<g ref="char:EOLhyphen"/>nent token of Honour; and that he might ſeem to be a ſetter up of a Religion, contrary to that of Chriſt, or rather the Author and Forger of malicious Lies, we may conſider, that he hath <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> in <hi>Libra,</hi> the Horoſcope of our bleſſed Saviour, as Mr.
+<hi>Butler</hi> hath it in his <hi>Chriſtologia,</hi> and hath wilfully made himſelf an op<g ref="char:EOLhyphen"/>poſer of the Truth, and hath eſtabliſhed Chriſtianity his Enemy, as may be ſeen by <hi>Libra</hi> on the twelfth Houſe, and
+<hi>Saturn</hi> therein poſited, and <hi>Mars</hi> Lord of his Aſcendent in
+<hi>Gemini,</hi> the Houſe of <hi>Mercury,</hi> and the Moon, Lady of the ninth Houſe; that being the Houſe of Religion, applying to a quadrat of
+<hi>Mercury,</hi> and to an oppoſition of <hi>Jupiter,</hi> might very well ſhew him to be both the Author of a falſe Religion, and promoter of Lies, and the <hi>Turks,</hi> that accurſed Generation of <hi>Ham,</hi> addicted to believe them; and that he ſhould be an Enemy to the Chriſtian Religion, may well be obſerved from this Nativity, the Moon being in <hi>Aquarius,</hi> in op<g ref="char:EOLhyphen"/>poſition to <hi>Leo,</hi> and <hi>Jupiter</hi> therein poſited, and in ſquare of the Sun, the Sign and Planets repreſenting the Chriſtian Religion.</p>
+               <p>
+                  <pb n="9" facs="tcp:151250:9"/>The opinion of <hi>Mahomet,</hi> or rather the Original of the <hi>Turks</hi> Religion, may be ſaid, to take its beginning at the flight of <hi>Ma<g ref="char:EOLhyphen"/>homet,</hi> which was in the year <hi>Anno Chriſti</hi> 591. for in that year, the <hi>Saracens</hi> drove him from
+<hi>Mecca,</hi> at which time, the <hi>Turks</hi> firſt began to ſettle their Religion; and moſt Aſtrologers do conclude, that the <hi>Turks</hi> Faith aroſe under <hi>Mars</hi> and the Moon, and good reaſon may be ſhewed for it, for in this Nativity, <hi>Scorpio</hi> aſcends, and
+<hi>Mars</hi> is Lord thereof, <hi>Cancer</hi> is on the Cuſp of the ninth Houſe, the Houſe of Religion, and the Moon is Lady of it, and may very well ſignifie a Rude and Savage Religion, as well as People, given to many Vices and laſcivious Actions.</p>
+               <p>And to ſpeak ſomething of the continuance and deſolation of their Faith, if we take 264. the greateſt years of <hi>Mars,</hi> and 320. the greateſt years of the Moon, and add to the year of Chriſt 591. the year that <hi>Mahomet</hi> took his Flight, it will make but 1175. (a great miſtake of Mr. <hi>Holwel,</hi> who takes 480. for the greateſt years of
+<hi>Mars,</hi> and 260. for the Moons greateſt years; I wonder from what Author he had them, but I ſuppoſe, this is one of his own new Inventions, and like his Directions of the <hi>Othoman</hi> Fa<g ref="char:EOLhyphen"/>mily being taken four years before it began, as may be ſeen in his <hi>Appendix,</hi> page the fifth) and about the year 1175. this Faith was at the higheſt, for then the
+<hi>Othoman</hi> Family were much increaſed, and ſetled their Religion by a Law, which I confeſs, was before this time done, or elſe this had been but a birth of this Religion, and becauſe God hath ſaid in the Holy Scriptures, that all Nati<g ref="char:EOLhyphen"/>ons ſhall be converted to the Chriſtian Faith, before the Day of Judgment, therefore we will conſider, about what time this Faith may have a Diſſolution, which according to the Rules of Aſtro<g ref="char:EOLhyphen"/>logy, and ſecondary Cauſes, if we add 584. the greater years of <hi>Mars,</hi> and the Moon, to 1175. it will make 1759. ſo that about the year, <hi>Anno Chriſti</hi> 1759. we may expect the Diſſolution of the <hi>Turks</hi> Faith, for I would have (Mr. <hi>Holwel</hi> as well as) my Reader know, that as any Religion hath a riſing, and increaſing, before it comes to its full height, ſo it will have the like time of Diminiſh<g ref="char:EOLhyphen"/>ing, before it can have its full Diſſolution.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="10" facs="tcp:151250:10"/>
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>Treating of the Nativity of the preſent Emperor of
+<hi>Germany.</hi>
+                  </p>
+               </argument>
+               <p>IN this Chapter, I will firſt ſhew you, how that Mr.
+<hi>Holwel,</hi> in his <hi>Appendix</hi> tells us, that this preſent Emperor of <hi>Germany,</hi> was born on the thirtieth Day of <hi>May,</hi> in the year
+1640. at nine hours three minutes <hi>poſt Meridiem,</hi> or after Noon, in the <hi>Latitude</hi> of 48 <hi>Degrees,</hi> and that he had ſeven Degrees, and forty five Mi<g ref="char:EOLhyphen"/>nutes of <hi>Scorpio</hi> on the Mid-heaven, and
+<hi>Jupiter</hi> in four Degrees and fifty four Minutes of <hi>Capricorn,</hi> as may be ſeen in his Scheme, which he affirms to be the true one; becauſe, ſaith he, it was rectified by the Mid-heaven, to the Square of
+<hi>Saturn</hi> and <hi>Jupiter,</hi> and the Square of the Moon, at which time, ſaith he, the Em<g ref="char:EOLhyphen"/>peror and Empire had much Suffering, for the
+<hi>Turks</hi> did invade him; but behold his grand Miſtake, for I will appeal to all Ar<g ref="char:EOLhyphen"/>tiſts, how the Mid-heaven can come to the Square of
+<hi>Jupiter</hi> (as he is poſited) in leſs than 150 years, whereas it was directed to the Square of <hi>Saturn</hi> and the Moon, about the twenty fourth year of his Age, and therefore in the year 1664. but any thing will ſerve with ſuch Artiſts, to fill a Book good enough for ignorant People to read and admire; for it is nothing with too many now a days, of our Godly Traitors, Sanctified Hypocrites, Religious Atheiſts, and Proteſtant <hi>Turks</hi> (as Mr. <hi>Pelling</hi> titles the Fanaticks in the twelfth page of his
+<hi>Sermon,</hi> preached on the ninth of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> 1683. being a day of Thanks-giving, for deliverance from the Fanatick Conſpiracy) to blaſt the Honour of Chriſtian Kings and Potentates, eſpecially thoſe of other Nations, when they can ſcarce forbear our own; but I will forbear to ſpeak any more of this Miſtake, and proceed to a greater. This Nativity, publiſhed by Mr. <hi>Holwel,</hi> is taken out of Mr. <hi>Gadburies</hi> Book of Comets, only the time a little altered, and it is the true Day, but not the true Hour, as hath been proved by Mr. <hi>Gadbury,</hi> ſince he wrote that Book; for any one that hath had any Diſcourſe with any man that hath ſeen him, or hath but ſeen his Effigie, may very eaſily conjecture, that this noble Emperor hath not <hi>Capricorn</hi> aſcending on his Ho<g ref="char:EOLhyphen"/>roſcope, but rather <hi>Gemini,</hi> and therefore I will inſert a Scheme, of
+<pb n="11" facs="tcp:151250:10"/> the true time of this Emperors Birth, which is as followeth, and given me alſo by Mr. <hi>Gadbury</hi> himſelf.</p>
+               <figure>
+                  <figDesc>astrological chart</figDesc>
+                  <p>
+                     <hi>Leopoldus</hi> the pre<g ref="char:EOLhyphen"/>ſent Emperor of
+<hi>Germany,</hi> was born <hi>May</hi> the 30<hi>th.</hi> 4<hi>h. Ante Mer. Lat.</hi> 48.</p>
+                  <p>☽ ☌ ♂ add ☌ ♄</p>
+               </figure>
+               <p>This preſent Emperor of <hi>Germany,</hi> was born the thirtieth day of <hi>May,</hi> in the year of our Lord 1640. at four a Clock in the Morning, and chriſtened <hi>Leopoldus, Ig<g ref="char:EOLhyphen"/>natius, Franciſcus, Baltha<g ref="char:EOLhyphen"/>zer, Joſeph Falicimus,</hi> in the City of <hi>Vienna.</hi>
+               </p>
+               <p>At the birth of this Magnanimous Prince, <hi>Gemini</hi> was on the Ho<g ref="char:EOLhyphen"/>roſcope, and the Sun in the Aſcendent, and <hi>Mercury</hi> Lord of the Aſcendent in his own Houſe, and in the Sign of the Aſcendent, which are teſtimonies of the greateſt Honour, Dignity and Soveraignty, and though
+<hi>Sa<g ref="char:EOLhyphen"/>turn, Mars</hi> and the Moon, be in the Mid-heaven, yet will they not deſtroy the Natives Honour and Grandeur, becauſe they are not afflicted; for <hi>Saturn</hi> is Lord of the tenth Houſe, and <hi>Mars</hi> and the Moon are in trine to the Sun in the Aſcendent, from the Mid-heaven, which are rather teſtimonies of Honour than Diſ<g ref="char:EOLhyphen"/>grace, and here we have
+<hi>Mercury,</hi> Lord of the Aſcendent, ſtron<g ref="char:EOLhyphen"/>ger than <hi>Jupiter,</hi> Lord of the Seventh, the Houſe of publick Ene<g ref="char:EOLhyphen"/>mies, which is an eminent token that his publick Enemies ſhall not prevail againſt him, yet his Poſition in the twelfth Houſe, may ſhew the Native to have many Enemies, the rather, being in ſquare to <hi>Saturn,</hi> but <hi>Mercury</hi> is ſtrongeſt in the Figure, therefore, as aforeſaid, his Enemies can never prevail againſt him, for the Lord of the Seventh is weak, and in his fall; neither can I ſuppoſe the Native to die in Battle, as Mr. <hi>Holwel</hi> awards, be<g ref="char:EOLhyphen"/>cauſe the Lord of the Eighth doth not afflict either the Aſcen<g ref="char:EOLhyphen"/>dent or the Moon, nor is there any ſignification of a violent Death he hath about this time; the Mid-heaven directed to the Sextile of <hi>Venus,</hi> Lady of the ſixth Houſe, a glorious Direction, ſhewing that his Servants and Subjects will be faithful to him, ſo that he need not, neither will he fear either <hi>Turk</hi> or <hi>Tartar,</hi> nor <pb n="12" facs="tcp:151250:11"/> yet the power of <hi>Mahomet,</hi> the Treachery of Count <hi>Teckely,</hi> or Mr.
+<hi>Holwels</hi> idle Predictions, nor yet any other of <hi>Mahomets</hi> lying Prophets, whatſoever they ſhall write or predict againſt Chriſten<g ref="char:EOLhyphen"/>dom; but let ſuch Predictors know, that God hath a Divine Providence over Chriſtendom, and will not ſuffer the name of Chriſt to be deſtroyed; but this Emperor hath had many ill Di<g ref="char:EOLhyphen"/>rections in his Life paſt, and he hath alſo had many Controver<g ref="char:EOLhyphen"/>ſies and Troubles, anſwerable to them, but the main cauſe of this his preſent trouble is, that he hath Lately had the Sun and Aſcen<g ref="char:EOLhyphen"/>dent, both directed to the 60 Anticians of <hi>Jupiter,</hi> the Significator of the Chriſtian Religion, and I think he hath not been free from trouble, ſince he had the Mid-heaven directed to the Square of the Sun, and the Moon to the Square of <hi>Jupiter,</hi> which was about ten years ſince, and it is much to be feared, he will not be free from trouble until he hath paſſed the Mid-heaven to the Square of <hi>Jupiter,</hi> which will be about the year 1688. yet before that time, he hath good Directions, for about the year 1685. he hath the Moon to the Sextile of the Sun, and the Sun to the Sextile of <hi>Ve<g ref="char:EOLhyphen"/>nus,</hi> Directions good enough in a mean Nativity, to raiſe a Beg<g ref="char:EOLhyphen"/>gar to good Preferment, much more in a Regal Nativity, to give a King or Emperor Victory over his Enemies, to a great degree of Worſhip and Adoration from all kinds of People.</p>
+               <p>The Moon directed to the Sextile of the Sun, is held by all A<g ref="char:EOLhyphen"/>ſtrologers, to produce unto the Native honourable Acquaintance, and Familiarity with ſome of great Rank and Quality, whoſe Friendſhip he will make uſe of to his great advantage, more eſteemed and beloved of People than formerly, both enriched and honoured by means of his Prudence and good Nature; ſometimes it produceth honourable Marriage, alſo Travel, both by Sea and Land, whereby Honour is attained; to Kings and Emperors, it ſhews the Renovation of Leagues and Friendſhip, and the compo<g ref="char:EOLhyphen"/>ſing of Differences with their Neighbours.</p>
+               <p>And the Sun, directed to the Sextile of <hi>Venus,</hi> doth import the Native to have a good Name, alſo ſome more than former ad<g ref="char:EOLhyphen"/>vance to Dignity and Preferment, from whence he ſhall acquire great ſtore of Wealth, and be highly eſteemed of all ſorts of Peo<g ref="char:EOLhyphen"/>ple in general, he ſhall perform all his Affairs with much facility, and obtain all his juſt deſires, with much love and content, it moſt commonly produceth a Child unto the Native; both theſe Di<g ref="char:EOLhyphen"/>rections happen about the year 1685. and what advantage he now gaineth, he need not fear loſing again, as long as he liveth.</p>
+               <p>
+                  <pb n="13" facs="tcp:151250:11"/>And about the year of our Lord 1688. this Native hath the Mid<g ref="char:EOLhyphen"/>heaven directed to the Square of <hi>Jupiter,</hi> intimating Kings and Princes to gain the Diſpleaſure of their Nobility and Gentry, by abridging their Priviledges, ſo that Judges and Lawyers will be at Controverſie with him, and many of them he will turn out of their Places; alſo Eccleſiaſtical Perſons, and thoſe of the higheſt degree offenſive againſt him, whereby will ariſe much Controver<g ref="char:EOLhyphen"/>ſie, Contention and Mutations, alſo ſome of his Kindred will be diſaffected to him, but at laſt they will be forced to comply with him, and that upon his own terms, and they will be glad if they can regain their loſt Favour.</p>
+               <p>But to mitigate theſe Troubles, he hath at the ſame time, the Aſcendent directed to the Sextile of <hi>Venus,</hi> which will make the Native delight himſelf in all manner of Pleaſures and Recreations, and that he will gain the Love of the Commonalty, and Familiarity with Women of great Rank and Quality, it often produceth hono<g ref="char:EOLhyphen"/>rable Marriages, and Iſſue ſoon after, and from henceforth for many years, he hath no ill Directions, ſo that according to the Rules of Aſtrology (from which Rules I would not willingly va<g ref="char:EOLhyphen"/>ry) this Emperor is like to have a long and proſperous Reign, and I know not, but that he may attain to eighty two years of age, which God grant he may, to the Honour of Chriſtendom; about which time, it ſeemeth to be ſomewhat mortal; but I will forbear any further Judgment thereof, as having a Veneration for the Per<g ref="char:EOLhyphen"/>ſons of Emperors and Kings, who are Gods Vicegerents on Earth.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="14" facs="tcp:151250:12"/>
+               <head>CHAP V.</head>
+               <argument>
+                  <p>Treating of the Nativity of the moſt Chriſtian King of
+<hi>France,</hi> LEWIS the Fourteenth.</p>
+               </argument>
+               <figure>
+                  <figDesc>astrological chart</figDesc>
+                  <p>
+                     <hi>September</hi> 5. 11 h. 11 A M 1638.</p>
+                  <p>Sub Lat. 49 d.</p>
+                  <p>☾ ☌ ♀ ad <g ref="char:trine">△</g> ♂</p>
+               </figure>
+               <p>THis Scheme of the Nativity of the moſt Chriſtian King of
+<hi>France,</hi> is the ſame which <hi>Morinus,</hi> Phyſician to the King of <hi>France,</hi> af<g ref="char:EOLhyphen"/>firms to be the true one; and I ſuppoſe nearer the truth than that which Mr. <hi>Holwel</hi> inſerts in his Appendix: This Scheme may be ſeen in <hi>Morinus's Aſtrologia Gal<g ref="char:EOLhyphen"/>lica, fol.</hi> 555. as Mr. <hi>Gadbury</hi> hath aſſured me, and alſo printed it in defence of
+<hi>Scorpio.</hi>
+               </p>
+               <p>In Mr. <hi>Holwels</hi> Appendix in the King of
+<hi>France</hi>'s Nativity, he predicteth that moſt Chriſtian King to become one of the miſe<g ref="char:EOLhyphen"/>rableſt Princes in the world, becauſe, ſaith he, he hath many ill Directions. But we will firſt conſider the general Fate, (which is moſt to be regarded) and then proceed to particulars: but here I will ſhew you how there is ſome ſmall difference between Mr.
+<hi>Holwels</hi> Judgment and mine of the time; for I, with <hi>Morinus</hi> affirm, that he hath 14. degrees and 45. Minutes of <hi>Scorpio</hi> on the Horo<g ref="char:EOLhyphen"/>ſcope, and Mr. <hi>Holwel</hi> ſaith 22 degrees; no great difference in the general fate, but in the particular it will in ſome directions differ ten years of time: ſo that the Accidents which are produ<g ref="char:EOLhyphen"/>ced by either the Aſcendent or Mid-heaven, by Mr. <hi>Holwels</hi> Scheme, will not come by
+<hi>Morinus</hi> until ten years after, which is a great difference in time.</p>
+               <p>But we have here in our Scheme the Regal Sign <hi>Leo</hi> on the <hi>Medium Coeli,</hi> and the <hi>Sun</hi> Lord thereof poſited in the Mid-heaven; <pb n="15" facs="tcp:151250:12"/> alſo <hi>Mercury</hi> in his own houſe in the Mid-heaven, which are ab<g ref="char:EOLhyphen"/>ſolute teſtimonies of durable Honour: he hath alſo the part of Fortune in the eleventh houſe, declaring that he ſhall be much advantaged by his profeſſed Friends, and that he ſhall have many Friends: likewiſe the <hi>Moon</hi> is in Conjunction of <hi>Venus,</hi> Lady of the Eleventh Houſe, the Houſe of Friendſhip, but <hi>Venus</hi> is Lady of the Twelfth Houſe, alſo the Houſe of private Enemies; ſo ſhe is likewiſe Lady of the Seventh Houſe, the Houſe of publick Ene<g ref="char:EOLhyphen"/>mies: but inaſmuch as <hi>Mars</hi> Lord of the Aſcendent, is ſtronger than
+<hi>Venus</hi> Lady of the Seventh and Twelfth, it is an eminent token that his Enemies either publick or private ſhall not prevail againſt him, neither will they be very apt to quarrel with him; but thoſe that will contend with him, let them be ſure to look to come off with loſs and damage, for they will not be able to withſtand him.</p>
+               <p>But I ſuppoſe the main thing that cauſed Mr.
+<hi>Holwel</hi> to predict of the miſerable poverty of this great Monarch, might proceed from the poſition of <hi>Mars,</hi> and the Dragons Tail in the Second Houſe of his Scheme; for theſe are commonly teſtimonies of waſte of ſubſtance: but Mr. <hi>Holwel</hi> doth miſtake, the Dragons Tail is not in the Second Houſe, as he hath placed him in his Figure, but in the Eighth Houſe, and the Dragons Head is in the Second Houſe.</p>
+               <p>And if we conſider that <hi>Mars</hi> is Lord of the Aſcendent, we need not judge him a teſtimony of Poverty, but rather of Riches; which is much augmented by the poſition of the Dragons Head in the ſecond Houſe; for Authors ſay, the Lord of the Aſcendent poſited in the ſecond Houſe, ſhews a great increaſe of Riches by the Natives own labour and induſtry, the rather being in Recep<g ref="char:EOLhyphen"/>tion with the Lord of the ſecond. And pray what Prince in the World now living, hath laboured more, and uſed greater induſtry to increaſe his Riches, and to enlarge his Territories, than the pre<g ref="char:EOLhyphen"/>ſent King of <hi>France</hi> hath done? neither hath any Prince had grea<g ref="char:EOLhyphen"/>ter ſucceſs than he. And thus I ſhall leave the general, and pro<g ref="char:EOLhyphen"/>ceed to the particulars.</p>
+               <p>Whereas Mr. <hi>Holwel</hi> deſireth any one that will, to run down the Directions of this Mighty Monarch, I have taken his advice, and have run down the Directions of his Figure, and I find that the <hi>Sun</hi> came not to the ſquare of <hi>Mars</hi> until Twelve years of age, (but Mr.
+<hi>Helwel</hi> ſaith at Nine) therefore unlike the <hi>Sun</hi> to the Square of <hi>Mars</hi> ſhould give the Small Pox at Nine years of age: Neither do I hold any Direction of either the <hi>Sun</hi> or <hi>Moon</hi> a ſafe Rule <pb n="16" facs="tcp:151250:13"/> whereby to prove any Nativity by, but rather by the Aſcendent or Mid-heaven; yet I do not ſay but the Directions of the
+<hi>Sun</hi> or <hi>Moon</hi> may operate as forcibly as the other, according to their nature, though not to prove the time of birth by.</p>
+               <p>But according to <hi>Morinus</hi>'s Figure, which I ſuppoſe to be near<g ref="char:EOLhyphen"/>eſt the truth, he had between three and four years of age the Mid<g ref="char:EOLhyphen"/>heaven to the Sextile of <hi>Jupiter,</hi> about which time the French Kings Father died, and he ſtiled King of <hi>France:</hi> about twelve years of age, he had the Mid-heaven directed to the Conjunction of the <hi>Sun;</hi> under this Direction he received his Crown; about thirteen or fourteen he had the <hi>Sun</hi> to the Square of <hi>Mars,</hi> and then he had troubles in
+<hi>France;</hi> and at <hi>Paris</hi> they ſhut the Gates againſt him. About two or three and twenty, he had the <hi>Sun</hi> directed to the Sextil of both <hi>Venus</hi> and the <hi>Moon;</hi> under theſe Di<g ref="char:EOLhyphen"/>rections he was married to <hi>Maria Tireſia d'Auſtria,</hi> Infanta of <hi>Spain,</hi> which was on the Ninth of <hi>September</hi> 1660. And Mr. <hi>Hol<g ref="char:EOLhyphen"/>wel</hi> ſaith, the French King hath lately had the Midheaven to the Sextil of
+<hi>Mars,</hi> and that cauſed him to be proſperous in Arms; but I ſay he hath not yet had that Direction; but he hath lately had the <hi>Sun</hi> to the Sextil of <hi>Mars,</hi> and the Aſcendent to the Cuſp of the ſecond Houſe, this cauſed him to be proſperous in Arms, and thereby to increaſe his Subſtance and Territories.</p>
+               <p>And Mr. <hi>Holwel</hi> alſo ſaith, that the French King in
+<hi>Auguſt</hi> 1683. ſhall have many Miſeries, both in Body, Mind, and Fortune, and that then his own Subjects will rebel againſt him; and that he would be in danger of Fire and Gunſhot, alſo Stabbing and Im<g ref="char:EOLhyphen"/>priſonment; and that he ſhould be in danger of being cheated of his Life; and then, ſaith he, if this happen, one may ſay there is ſome truth in Art. But I am aſſured, that as this hath not yet hapned, and though it never do (as I am perſwaded it never will) yet there is more Truth in Art than there is honeſty in Mr. <hi>Hol<g ref="char:EOLhyphen"/>wel,</hi> or truth in ſuch Artiſts; for ſuch nonſenſical boaſters of Art are but abuſers of Art, and therefore not worthy to bear the Name or Title of an Artiſt.</p>
+               <p>He ſaith moreover about the ſame time, the French King ſhould loſe all his former Honour both by Sea and Land, (but ſure he meaneth this of himſelf) and that all he takes in hand for ſeven years ſpace will proſper ill, if he lives ſo long, and that he will ſoon come to be impriſoned or Baniſhed, and be one of the miſe<g ref="char:EOLhyphen"/>rableſt Princes in the World.</p>
+               <p>
+                  <pb n="17" facs="tcp:151250:13"/>But none of theſe things have yet hapned, neither can I find according to the Rules of Aſtrology, that ſuch Calamities will at all happen to this moſt Chriſtian Prince; for certainly he is not a Prince born to Misfortune, Diſgrace nor Poverty, as an inge<g ref="char:EOLhyphen"/>nious Artiſt may well perceive by his Nativity, but to be the Glory of his Nation, and a Terror to his Enemies: and as for thoſe Di<g ref="char:EOLhyphen"/>rections which Mr.
+<hi>Holwel</hi> pretends ſhould bring ſuch afflictions on this moſt Chriſtian King, are not yet come, neither will they for many years; and when they do come, they will not be ſo vi<g ref="char:EOLhyphen"/>olent as he ſpeaketh of; for he conſidereth not that about the ſame time that there happeneth evil Directions, there alſo happeneth good ones; for about the year of our Lord Chriſt 1690. the Aſ<g ref="char:EOLhyphen"/>cendent comes to the Square of <hi>Mercury,</hi> Lord of the eighth and tenth Houſes, which might ſhew ſome danger both of Life and Honour; but at the ſame time the <hi>Sun</hi> comes to the body of
+<hi>Ju<g ref="char:EOLhyphen"/>piter,</hi> Lord of the ſeventh and eleventh Houſes, thereby raiſing Friends unto the Native, and bringing even his Enemies to be at peace with him, and thus abating the evil threatned by <hi>Mercury.</hi> And about the year 1692. the Aſcendent will be directed to the body of <hi>Mars,</hi> Lord of the ſixth Houſe, which may give ſome afflictions of body, and at the ſame time the Mid-heaven comes to the Sextile of <hi>Mars,</hi> mitigating the evil influence of <hi>Mars</hi> to the Aſcendent; yet I ſuppoſe about the year 1690. or between that and the year 1693. he may have ſome affliction of body that will be very violent, which if he eſcape, he may (<hi>favente Deo</hi>) live ma<g ref="char:EOLhyphen"/>ny years.</p>
+               <p>Mr. <hi>Holwel</hi> alſo ſaith, that in a ſhort time the Commons of <hi>France</hi> will be in Arms againſt their preſent King, and that if he ſhould live but two years (that would be but to the year 1685,) he would be driven from his Throne by his own Subjects, and if he die before, then the next King will be ſerved ſo: but what reaſon he hath for any of this, I think that neither himſelf, nor any rational man can tell; but eſpecially whereby he judgeth the fate of the next King, by this preſent Kings Nativity; nay he is not content therewith, but he addeth more nonſenſical ſtuff; for in the ſame Nativity he ſaith, the Turks ſhall over-run <hi>France, Spain, Italy, Rome, Venice, Muſcovia</hi> and <hi>Poland,</hi> deſtroying it with Fire and Sword; and that the Key of Chriſtendom ſhall be loſt; (but it were better a thouſand ſuch Predictors were ſerved as
+<hi>Baals</hi> Prophets were, that we might have no more ſuch Chriſtian Turks amongſt us to diſhearten us with lies) but I ſhall forbear to men<g ref="char:EOLhyphen"/>tion <pb n="18" facs="tcp:151250:14"/> any more of theſe fooleries, and certifie my Readers, that the ruine of theſe Kingdoms and Countries cannot by the Rules of Aſtrology be predicted of from this Nativity; therefore this is like the reſt of his falſe nonſenſical ſtuff, and Time will manifeſt it ſo to be; and then let Mr. <hi>Holwel</hi> be ſure that he will be deri<g ref="char:EOLhyphen"/>ded, not only by Artiſts, but by every one wholly ignorant of Art, that hath, or ſhall chance to read his Books, which will be to him a greater Diſgrace, than ever his Books procured him Fame or Profit; thus he hath uſed his endeavour to diſhearten all Chri<g ref="char:EOLhyphen"/>ſtendom, and to incourage the Turks and Heathens with falſe Predictions. But I will adviſe Mr. <hi>Holwel,</hi> not to diſoblige the King of <hi>England,</hi> nor the Laws of our Land, for he hath diſobli<g ref="char:EOLhyphen"/>ged almoſt all Chriſtendom, and belied the <hi>Turks;</hi> and if he ſhould have a fanſie, or be forced to travel, I would have him well con<g ref="char:EOLhyphen"/>ſider, into what Kingdom or Country, he may be the moſt wel<g ref="char:EOLhyphen"/>come; if to the <hi>Turks</hi> he go, let him have a care of ſtrangling, for he hath been to them an abominable lying Prophet, if to the Kingdom of
+<hi>France,</hi> the Baſtile is the way to the Wheel, on which they break all impudent Impoſtors, for he hath frighted that Country (if at leaſt any among them be ſo ſenſeleſs, to be fright<g ref="char:EOLhyphen"/>ed with his abſurd Crudities) with falſe Fears, more than enow. If to any other Country of Chriſtendom, they'l quickly ſmell out an Aſs under the Skin of a Lyon, and bait him accordingly; my Advice therefore is, that he keep himſelf at home, with the <hi>Cataſtrophe Mundi,</hi> and <hi>Appendix</hi> of his own addle Writing, there being no<g ref="char:EOLhyphen"/>thing in them, but what is become moſt notorious and loathſome to all ſober men.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>Treating of the Conjunction of the Superior Planets, and more particularly, of the Conjunction of <hi>Saturn</hi> and <hi>Jupiter,</hi> in
+<hi>Leo,</hi> in the year 1682.</p>
+               </argument>
+               <p>EVery Planet contributeth in ſome meaſure or other to the Go<g ref="char:EOLhyphen"/>vernment of this World, but ſome more forcibly than others, as the Superiours, being forerunners of great and ſtrange Acci<g ref="char:EOLhyphen"/>dents, War, Slaughter, and Mutations.</p>
+               <p>
+                  <pb n="19" facs="tcp:151250:14"/>I come now to ſpeak ſomething of the Conjunctions of <hi>Saturn,</hi> and <hi>Jupiter;</hi> and as for Mr.
+<hi>Holwels</hi> method of direction to that purpoſe, in a Figure of the new or full Moon, either next before or after it, I think it not a ſafe way, there to find the time of their Effects, for by this way of direction round and round the <hi>Zodiac,</hi> the Effects of a Conjunction would laſt to the end of the World; and if all the Conjunctions which have been ſince the Creation, ſhould to this day work their Effects, as they did at or ſoon after they happened, what a miſerable time ſhould we now live in? but they are not to laſt always, for they are appointed for Signs and for Seaſons, for days and years; and as he hath directed <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> and <hi>Jupiter</hi> in their Conjunction in <hi>Sagitary, Anno Dom.</hi> 1603. to the new Star, which was in the year 1572. and the Aſcen<g ref="char:EOLhyphen"/>dent and Midheaven of the new Moon, before the Conjunction of <hi>Saturn</hi> and <hi>Jupiter,</hi> 1682. directed to the ſame new Star, is to no more effect (comparatively) than a man being very cold, ſhould fit by a great Fire till he had warmed and refreſhed him<g ref="char:EOLhyphen"/>ſelf, and many years after, he being in the ſame Extremity with Cold, and coming to the ſame Houſe, expecting there again to warm and refreſh himſelf, but finds neither Fire nor Inhabi<g ref="char:EOLhyphen"/>tants there at preſent, nor had any been there for many years paſt, only there remained the Houſe empty; ſo by this direction, the Houſe or Sign of the <hi>Zodiac</hi> may be found, but the new Star long time paſt, quite out and extinguiſhed; ſo are the directions to the other Promitters as erroneous and frivolous.</p>
+               <p>But I having been atleaſt twenty years a Student in Aſtrology (and other parts of the Mathematicks) I have read many Authors, and diſcourſed with Doctor <hi>Reaſon,</hi> and Doctor <hi>Experience,</hi> and they tell me, that the time of the Events of Conjunctions of the ſuperior Pla<g ref="char:EOLhyphen"/>nets are taken two ways, that is generally and particularly; firſt generally, as to the time of the whole duration of their effects; take this for a general Rule, that the effects of the Conjunction of any of the ſuperior Planets continue in force, but until another Con<g ref="char:EOLhyphen"/>junction of them happen (which is in about twenty years) and then their effects will alter, according to the nature of the Sign in which it happens, conſideration being had to their Poſition and other Configurations; ſo that the effects of that Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Sagitary,</hi> in the year 1603. (ſo much ſpoken of by Mr. <hi>Holwel,</hi> in his <hi>Cataſtrophe Mundi</hi>) ended in the year 1623. for at that time there was a Conjunction of
+<hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> whoſe effects alſo ended in the year 1643. and the more fully, <pb n="20" facs="tcp:151250:15"/> there then happening a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in
+<hi>Piſces,</hi> a Sign of the watry Triplicity, whoſe effects laſted but to the year 1663. for then hapned another Conjunction of <hi>Saturn</hi> and
+<hi>Jupiter</hi> in <hi>Sagitary,</hi> whoſe effects were not different from that in 1603. I mean, in their own Nature, and not as the many Eclipſes, ſolar Ingreſſes and other Configurations, altered them, and their effects ceaſed, when the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> hapned in <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> 1682. and was the firſt of the Triple Conjunction of
+<hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> which hapned then and in the following year, under whoſe effects we now are, and ſhall ſo be, until the year 1702, and their effects in their own nature are not like to be much different from that which hapned in the year 1623, only this in 1682. is of far greater force, it being a Triple Conjunction, and therefore its effects will be more powerful.</p>
+               <p>The effects of the Conjunctions of the Superior Planets, are commonly Seditions, Troubles, Mutations, Wars, Subverſions of Monarchies, Kingdoms, States, alterations of Laws, Cuſtoms, Priviledges, Treacheries, Treaſons, and ſometimes the Death of Emperors, Kings, Princes, Potentates and Powers; and thus much of the general Operation: now we come to the parti<g ref="char:EOLhyphen"/>cular.</p>
+               <p>And the better to judge of the future effects of the Conjunctions of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> in the years 1682. and 1683. let us look back into Hiſtory, and ſee what hath hapned under ſuch Conjunctions already paſt, and thereby we ſhall be the better able to judge of their following ſignifications. In the year <hi>Anno Chriſti</hi> 35. (being but one year after the Death and Paſſion of our Saviour Jeſus Chriſt) there was a Conjunction of <hi>Saturn</hi> and
+<hi>Jupi<g ref="char:EOLhyphen"/>ter</hi> in <hi>Leo,</hi> and then the <hi>Jews</hi> waxed bitter cruel againſt the Diſci<g ref="char:EOLhyphen"/>ples of our Saviour; for after the death of Chriſt, the Holy Spirit falling on them, they boldly profeſs what they had ſeen and heard, and that openly; and <hi>Stephen</hi> being choſen to perform Ho<g ref="char:EOLhyphen"/>ly Service, in the Company of the Chriſtians, becauſe he fer<g ref="char:EOLhyphen"/>vently imployed himſelf in publiſhing the Glory of Chriſt, being laid hold on by envious Perſons, was ſtoned to death, and from that time, the chief of the <hi>Jews</hi> endeavoured all they could, to blot out the name of the Chriſtians by what means they could; but eſpecially <hi>Saul</hi> breathed out threatnings againſt them, who having the largeſt Power made over to him from the high-Prieſt, he then bended toward <hi>Damaſcus,</hi> that he might oppreſs them, but in his Journey he was affrighted, and being ſtruck to the Earth, <pb n="21" facs="tcp:151250:15"/> he is converted, and ſuddenly applied himſelf wholly to the Wor<g ref="char:EOLhyphen"/>ſhip of Chriſt. This hapned in the third year after the death of Chriſt, and the firſt after the Conjunction.</p>
+               <p>And this is a very good Example of what is now coming on af<g ref="char:EOLhyphen"/>ter the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> 1682. for <hi>Jupiter</hi> being a Significator of the Chriſtian Religion, and afflicted by the body of <hi>Saturn</hi> in <hi>Leo,</hi> the Houſe of the
+<hi>Sun,</hi> another Significator of the Chriſtian Religion, and
+<hi>Saturn</hi> being Significator of the Turks, may well ſtir them up againſt Chriſtendom; <hi>Saturn</hi> being the moſt ſuperiour Planet, put great and haughty thoughts of conquering the Chriſtians into the Turks malicious minds: But I ſuppoſe that neither the Turk nor Mr.
+<hi>Holwel</hi> thought of, nor conſidered, that <hi>Saturn</hi> was weak in
+<hi>Leo,</hi> and diſpoſed of by the <hi>Sun,</hi> Significator of both the Chriſtians and their Religion; for all that <hi>Saturn</hi> can do in
+<hi>Leo,</hi> is but to ſtir up Chriſtian Emperours, Kings, Princes, and Governours, to purge out all the dangerous dregs of obſtinate Diſſenters and Fanaticiſm, and thoſe of every wicked principle contrary to the well-being of Government; and that in all parts of Chriſtendom, but eſpecially in thoſe places un<g ref="char:EOLhyphen"/>der the Sign <hi>Leo,</hi> alſo to thoſe in Sextile or Trine to it, which are <hi>Aries, Gemini, Libra</hi> and
+<hi>Sagitarius;</hi> ſo that all Countries and Cities under thoſe Signs will in ſome way or other receive benefit by the means of this Conjunction, rendring the Regal power like the Sun, glorious and ſplendid; but I doubt of the Converſion of the Turks under ſuch a Conjunction, though Saint
+<hi>Paul</hi> had his under the like.</p>
+               <p>In the year of Chriſt 94. was a Conjunction of <hi>Saturn</hi> and <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> in <hi>Leo,</hi> and ſoon after <hi>Ulpius Trajanus</hi> took the Roman Em<g ref="char:EOLhyphen"/>pire, being two and forty years of age: he was ſtrong and expert in Military affairs; he was alſo wiſe, moderate and courteous, ſo that by the general conſent of all he deſerved the name of very good: he was proſperous in War; he added to the Roman Em<g ref="char:EOLhyphen"/>pire
+<hi>Dacia</hi> of <hi>Scythia;</hi> in the year of Chriſt 102. he ſubdued the <hi>Armenians, Ibrians, Colchians,</hi> the <hi>Sermats, Arabians,</hi> and the <hi>Baby<g ref="char:EOLhyphen"/>lonians;</hi> he brought under his power <hi>Seleucia, Cteſiphon</hi> and <hi>Babylon,</hi> and ſeveral other Cities; but while he ſailed in the Red-Sea, they rebelled againſt him; but he in perſon, with his Army, ſoon ſub<g ref="char:EOLhyphen"/>dued them again; he alſo ſmote the <hi>Cyrenian Jews</hi> and <hi>Parthians</hi> with great ſlaughters, which rebelled againſt him; he fell ſick and died naturally in <hi>Cilicia,</hi> in
+<hi>Auguſt, Anno Dom.</hi> 117.</p>
+               <p>
+                  <pb n="22" facs="tcp:151250:16"/>Sure, had Mr. <hi>Holwel</hi> compared Hiſtory with his Aſtrology, he might have judged more charitably of
+<hi>Rome, Italy</hi> and Chriſten<g ref="char:EOLhyphen"/>dom; for never yet did Chriſtendom under any Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> ſuffer Detriment, but came off Victori<g ref="char:EOLhyphen"/>ouſly over their Enemies, neither can either Turk, Tartar, or a<g ref="char:EOLhyphen"/>ny other Enemy to Chriſtendom, under this Conjunction, pre<g ref="char:EOLhyphen"/>prevail againſt them; yet I ſuppoſe, the Turk will have another attempt againſt Chriſtendom, though he come off with as great or greater loſs, than he did laſt at <hi>Vienna.</hi>
+               </p>
+               <p>In the year of Chriſt 153, there was a Conjunction of
+<hi>Saturn</hi> and <hi>Jupiter,</hi> and at the ſame time, <hi>Antonius Pius</hi> was Emperor of <hi>Rome,</hi> and with ſuch virtue and goodneſs governed he that Em<g ref="char:EOLhyphen"/>pire, that he excelled all others, the whole World was at Peace with him, all the time of his Empire, foraign Princes did dread him, ſo that they would make him the Arbitrator of their differences, becauſe of his Wiſdom; he died naturally, <hi>Anno Dom.</hi> 161.</p>
+               <p>
+                  <hi>Antonius Varus</hi> ſucceeded him, and reigned proſperouſly; he was ſuccesful in War againſt the <hi>Parthians,</hi> alſo in the <hi>Marcoman</hi> Wars; he died of an <hi>Apoplexy, Anno Dom.</hi> 171.</p>
+               <p>Surely, if Chriſtian Princes were under this Conjunction, ſo wiſe and ſucceſsful in War againſt their Enemies, I know no rea<g ref="char:EOLhyphen"/>ſon Aſtrologically, why they ſhould not be ſo now, for the Con<g ref="char:EOLhyphen"/>junctions are the ſame, and therefore muſt work the ſame effects; let Mr.
+<hi>Holwel,</hi> or any of <hi>Mahomets</hi> Prophets ſay what they will, for the Celeſtial Powers have not changed their former In<g ref="char:EOLhyphen"/>fluences.</p>
+               <p>
+                  <hi>Anno Dom.</hi> 829. there was a Conjunction of
+<hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> and then
+<hi>Lodovick</hi> governed the Roman Empire: but in the year following,
+<hi>Pepin</hi> King of <hi>France</hi> conſpired againſt him, with the chief Governours, and lays hold on the Empire, but in the following year, through the help of the <hi>Germans, Lodowick</hi> re<g ref="char:EOLhyphen"/>gains the Empire, and in the year 833. he is driven from the Em<g ref="char:EOLhyphen"/>pire, by the Conſpiracy of his three Sons, and advice of the Bi<g ref="char:EOLhyphen"/>ſhops; but in the following year,
+<hi>Lodowick</hi> is wholly reſtored to Empire, and ſo governed it to the day of his death, which was in the year 840. after his deceaſe, his three Sons fall at difference for the Empire<g ref="char:punc">▪</g> 
+                  <hi>Lotharius</hi> the eldeſt, againſt <hi>Lodowick</hi> and <hi>Charles</hi> the two youngeſt, and joyn Battle, ſo that many men were ſlain on both ſides; but in the year 844. they agree, and divide their Fa<g ref="char:EOLhyphen"/>thers Inheritance thus amongſt themſelves; unto <hi>Lotharius</hi> the Ro<g ref="char:EOLhyphen"/>man <pb n="23" facs="tcp:151250:16"/> Empire, that is,
+<hi>Rome</hi> and <hi>Italy,</hi> alſo <hi>Lorain,</hi> which took its Name from <hi>Lotharius,</hi> and alſo the Province of <hi>Burgany,</hi> and to
+<hi>Ludovick,</hi> all <hi>Germany, Mentzspiras,</hi> and <hi>Worms,</hi> and to <hi>Charles,</hi> the Weſt Country of <hi>France.</hi>
+               </p>
+               <p>In the year 888. there was a Conjunction of <hi>Saturn</hi> and
+<hi>Jupi<g ref="char:EOLhyphen"/>ter</hi> in <hi>Leo;</hi> about this time, was great War between the
+<hi>Normans</hi> and the <hi>French;</hi> for in the year 890. the
+<hi>Normans</hi> lay Siege againſt <hi>Paris,</hi> but took it not, though (as ſome ſay) the Siege laſted ſe<g ref="char:EOLhyphen"/>ven years, and in the year 898. the
+<hi>French</hi> ſlew of the <hi>Normans</hi> 18000, upon the Hill
+<hi>Faulcon,</hi> near the City.</p>
+               <p>
+                  <hi>Anno Dom.</hi> 948. there was a Conjunction of
+<hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> about this time,
+<hi>Berengarius</hi> uſurps the Kingdom of <hi>Italy</hi> from
+<hi>Lotharius,</hi> but the <hi>Italians</hi> diſliking his Tyrannical Government (which he held for the ſpace of twelve years) fled to
+<hi>Otho</hi> King of <hi>Germany,</hi> who being gone into <hi>Italy,</hi> in the year 962. received the Imperial Crown of Pope <hi>John,</hi> and was ſaluted the firſt Empe<g ref="char:EOLhyphen"/>ror of <hi>Germany;</hi> he two years after led away
+<hi>Berengarius</hi> into <hi>Ba<g ref="char:EOLhyphen"/>varia,</hi> and there he died; ſo
+<hi>Otho</hi> governed the German Empire proſperouſly and victoriouſly all his days, ſo that the German Em<g ref="char:EOLhyphen"/>pire had its riſe under the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> a fixed Maſculine Regal Sign, which relates to Diuturnity, and the long continuance of all things begun under it.</p>
+               <p>Thus you may ſee, that under theſe three Conjunctions, the Chriſtians have had War one againſt another, an Error too much practiſed amongſt ſome Chriſtian Princes. And indeed at this time, amongſt thoſe that profeſs the Chriſtian Religion, there are ſo many animoſities and divers ways of Worſhip, that I think, moſt of our Diſſenters had rather chuſe to kiſs the <hi>Turks Alchoran,</hi> then to ſubmit to our Lawful Regal Authority; but let ſuch know, that under this Conjunction, and all other Conjunctions of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> there hath been, and will be a cleanſing and purging by Regal Authority, all the dangerous dregs of Fanati<g ref="char:EOLhyphen"/>ciſm, and of every wicked Principle, repugnant to the well-being of Government. There hath alſo been under thoſe Conjunctions, Treachery, Treaſon and Rebellion; the Son hath conſpired a<g ref="char:EOLhyphen"/>gainſt the Father, and driven him from his Throne; the Subjects have conſpired againſt their Prince, and Brethren have made War one againſt another for their Fathers Inheritance; God grant that no ſuch Conſpiracy happen in any part of Chriſtendom under this Conjunction.</p>
+               <p>
+                  <pb n="24" facs="tcp:151250:17"/>In the year of Chriſt 1623. there was a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> juſt at which time <hi>Muſtapha</hi> the Turks Grand Signior was depoſed from his Imperial Throne the ſecond time, and <hi>Morat</hi> the rightful Heir proclaimed Emperour in his room, be<g ref="char:EOLhyphen"/>ing but fourteen years of age. In this year the <hi>Turks</hi> had War with the <hi>Hungarians, Perſians</hi> and
+<hi>Tranſilvanians;</hi> and the <hi>Perſians</hi> took the Province and City of <hi>Babylon</hi> from the <hi>Turks,</hi> ſlew many of them, took
+<hi>Moſul</hi> (formerly called <hi>Nineve</hi>) <hi>Mecha,</hi> and great part of the <hi>Turks</hi> Territories. The following year was much in effect like unto this. In 1625. a Rebellion broke out in <hi>Aſia</hi> againſt the Grand Signior, and a great Plague in <hi>Conſtantinople.</hi> In 1626. the
+<hi>Turks</hi> beſiege <hi>Babylon,</hi> but came off by the loſs of 70000
+<hi>Turks</hi> and <hi>Tartars;</hi> and in the following year no peace could be conclu<g ref="char:EOLhyphen"/>ded. 1628. the War continued, and the <hi>Perſians</hi> took ſeveral Towns from the <hi>Turks.</hi> This War continued till the year 1638. at which time the <hi>Perſians</hi> had War with the <hi>Indians,</hi> and then the Grand Signior taking advantage of the <hi>Perſians,</hi> went himſelf in perſon with a mighty Army againſt <hi>Babylon,</hi> and with much ado, and the loſs of a great many men, took it from the
+<hi>Perſians</hi> on promiſe of quarter; but contrary to his promiſe he cauſed all Men, Women, and Children to be barbarouſly maſſacred: and by this you may ſee the faith of a <hi>Turk.</hi> And thus much of the ſignification of this Conjunction, and of what is paſt; I proceed now to what is yet to come.</p>
+               <p>I come now to ſpeak of the Triple Conjunction of
+<hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> in the year of our Lord
+1682. And it is a Maxim according to that of <hi>Cardan, Segm.</hi> 5.
+<hi>Aphor.</hi> 63. <hi>Operationes Pla<g ref="char:EOLhyphen"/>netarum nunquam ceſſant, donec contraria à Planeta, vel Stella fixa, aut ſigni parte contrariae qualitatis impedimentur, vel in Solis radios in<g ref="char:EOLhyphen"/>cidant;</hi> The operation of the Planets never ceaſe until they are impedited by a contrary Planet or fixed Star, or from part of the Sign of contrary quality, or when they fall into combuſtion, <hi>viz.</hi> into the rayes of the Sun.</p>
+               <p>In this Conjunction thoſe Planets are not in evil aſpects of ei<g ref="char:EOLhyphen"/>ther the <hi>Sun</hi> or <hi>Mars,</hi> therefore no great matter of their effects could operate at the time of this Conjunction; but about the be<g ref="char:EOLhyphen"/>ginning of <hi>November</hi> 1682. the <hi>Sun</hi> came to the Square of both
+<hi>Saturn</hi> and <hi>Jupiter,</hi> and alſo of the place of the Conjunction; at which time the effects began to operate, though but ſlowly; but about the latter end of <hi>January</hi> following, the <hi>Sun</hi> came to the Oppoſition of both <hi>Saturn</hi> and <hi>Jupiter,</hi> and the place of the Con<g ref="char:EOLhyphen"/>junction; <pb n="25" facs="tcp:151250:17"/> this inſinuated miſchief into the heart of the <hi>Turks,</hi> to proclaim open War againſt <hi>Germany;</hi> and in the latter end of <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> and beginning of
+<hi>September,</hi> when <hi>Mars</hi> came to the Square of <hi>Saturn,</hi> and the place of the Conjunction, the effects began to operate to purpoſe, as we know about <hi>Vienna,</hi> and had not <hi>Jupi<g ref="char:EOLhyphen"/>ter</hi> been ſtronger than <hi>Saturn,</hi> Chriſtendom might have had too great a cauſe to have remembred it, for <hi>Mars</hi> is an Enemy to both <hi>Saturn</hi> and
+<hi>Jupiter;</hi> but a little after, <hi>Jupiter</hi> met with the Con<g ref="char:EOLhyphen"/>junction of <hi>Venus,</hi> governeſs of <hi>Libra</hi> (and thereby raiſed the Siege) being the Sign under which <hi>Vienna</hi> lieth.</p>
+               <p>And whereas this Conjunction hapned in <hi>Leo,</hi> we may conſider by what hath been already ſaid, that Chriſtendom never ſuffered much under ſuch Conjunctions, but hath come off either with honour or victory, although they have had many Troubles and Afflictions; for under ſuch Conjunctions they have beaten the <hi>Turks,</hi> and almoſt all that have oppoſed them.</p>
+               <p>Now if I ſhould be asked the reaſon why the Chriſtians have been ſo fortunate under the Conjunctions of <hi>Saturn</hi> and
+<hi>Jupiter</hi> in <hi>Leo?</hi> Conſider that <hi>Jupiter</hi> in
+<hi>Leo</hi> is ſtronger than <hi>Saturn</hi> there, and diſpoſeth of
+<hi>Saturn</hi> in his own Triplicity; for <hi>Saturn</hi> being Perigrine, and in his Detriment, he is as a man in cuſtody of his Enemy, forſaken of his Friend, and not able to work the evil ef<g ref="char:EOLhyphen"/>fects he might do if he were ſtrong, either in his own Houſe or Exaltation; for what hurt can an envious man do, when he is bound in Priſon, and forſaken of his Friends? <hi>Saturn</hi> can do no more in this Conjunction (neither can Kingdoms nor People un<g ref="char:EOLhyphen"/>der
+<hi>Saturn</hi>) but envy the happineſs of Religions, Countreys and Perſons under <hi>Leo,</hi> and not under <hi>Leo</hi> only, but thoſe that be un<g ref="char:EOLhyphen"/>der any Sign that is in Sextile or Trine to <hi>Leo,</hi> which are <hi>Libra, Sagitary, Aries,</hi> and <hi>Gemini.</hi> But here, peradventure I may be asked the Queſtion, why <hi>Vienna</hi> in <hi>Auſtria,</hi> being under
+<hi>Libra</hi> ſped ſo ill? To that I anſwer, Had it not been for this Conjunction, it might have ſped worſe; for the Beſieging of
+<hi>Vienna,</hi> was not wholly occaſioned by the Conjunction, but rather by the laſt Co<g ref="char:EOLhyphen"/>met that appeared in 1682, and paſſed through <hi>Libra,</hi> and the Conjunction may well be reputed the Raiſing of the Siege at
+<hi>Vien<g ref="char:EOLhyphen"/>na;</hi> or if any one will have it to proceed from the Conjunction only, it matters not, for it is no more than I told you before, that
+<hi>Saturn</hi> or the <hi>Turks</hi> by him repreſented, would ſhew their Envy to Religion, Countries, Cities and Perſons under <hi>Leo,</hi> and under Signs in Sextile or Trine to <hi>Leo,</hi> but would want ſtrength and power to deſtroy them; for if we compute the Loſs that the <hi>Turks</hi>
+                  <pb n="26" facs="tcp:151250:18"/> have ſuſtained by that Siege, both in Subſtance and People, and compare it with the Loſs of the Chriſtians, we may ſay, that the Conjunction was not prejudicial, but rather beneficial to Chri<g ref="char:EOLhyphen"/>ſtendom, and prejudicial to the <hi>Turks.</hi>
+               </p>
+               <p>Yet I do not ſay, but theſe Places under <hi>Leo,</hi> and in Sextile, and Trine to it, may have Troubles, but their Enemies ſhall not have power to prevail againſt them to overcome them; for though
+<hi>Sa<g ref="char:EOLhyphen"/>turn</hi> be the moſt ſuperior, yet being out of all his eſſential Digni<g ref="char:EOLhyphen"/>ties, he ſhall be forced to ſeek to, and comply with the Sun and <hi>Jupiter,</hi> and that upon their terms, and not upon his own.</p>
+               <p>But theſe Regions, Countries, and Cities under
+<hi>Aquarius,</hi> being in oppoſition to <hi>Leo,</hi> and thoſe in ſquare, which are <hi>Taurus</hi> and <hi>Scorpio,</hi> will be like to be moſt ſufferers (under this Conjunction) by one means or other; either by War, Famine, Sickneſs, or In<g ref="char:EOLhyphen"/>undations of Waters, &amp;<hi>c.</hi> for certainly, if thoſe under the Sextiles and Trines partake of Evil, much more thoſe under the Squares and Oppoſitions will be Sufferers by their effects, as may be ſeen by this following example, being yet in the memory of many thouſands now living in <hi>England.</hi> In the year 1663. there was a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Sagitary,</hi> and
+<hi>Gemini</hi> is the oppoſite Sign, <hi>London</hi> being under it, what ſad fates did <hi>London</hi> under<g ref="char:EOLhyphen"/>go ſoon after? for in the year 1665, there was a lamentable Plague, and in 1666. the City almoſt conſumed with Fire; many more ſad Accidents I could inſtance, but let this ſuffice at this time.</p>
+               <p>And becauſe that every one that may happen to read this Book, may not be an Artiſt good enough to know what places are under the Signs before mentioned, I will here inſert the Names of ſome Countries and Cities under <hi>Leo,</hi> and under the Signs in Oppoſiti<g ref="char:EOLhyphen"/>on and Square to it, which are as followeth.</p>
+               <p>Under <hi>Leo,</hi> are, <hi>Italy, Sicily, Bohemia,</hi> the
+<hi>Alps, Gallia, Togata, Apuleia, Phoenicia,</hi> and part of <hi>Turky:</hi> Cities, <hi>Damaſcus, Syracuſe, Rome, Ravinna, Cremona, Ulms, Prague, Lints, Confluentia, Bri<g ref="char:EOLhyphen"/>ſtol,</hi> &amp;c.</p>
+               <p>Under <hi>Aquarius,</hi> are, <hi>Samaria, Amazonia, Tartaria, Muſcovia, Weſtphalia, Moſel, Aethiopia, Media, Arabia, the deſart:</hi> Cities, <hi>Hamborough, Breme, Montſerat, Piſarum, Ingoldſtad</hi> and
+<hi>Trent,</hi> &amp;c.</p>
+               <p>Under <hi>Taurus,</hi> are <hi>Ruſſia, Polonia major, Lorrain, Campagnia, Helve<g ref="char:EOLhyphen"/>tia, Switzerland, Perſia, Cyprus, Parthia, Ireland:</hi> Cities, <hi>Parma, Nants, Bononia, Sena, Mantua, Sicila, Tigur, Tarentum, Lucern, Lipſic,</hi> &amp;c.</p>
+               <p>
+                  <pb n="27" facs="tcp:151250:18"/>Under <hi>Scorpio,</hi> are, <hi>Norway</hi> the Higher, <hi>Bavaria, Campagena, Cappadocia, Idumea, Catalonia, Barbary, Fez:</hi> Cities, <hi>Gaunt, Alge<g ref="char:EOLhyphen"/>ra, Meſſina</hi> in <hi>Italy, Frankfort</hi> upon <hi>Odar, Valentia,</hi> and <hi>Catalonia</hi> in
+<hi>Spain.</hi>
+               </p>
+               <p>Thus I have ſhewed ſome of the Places under the Signs, in which the effects of this Conjunction is like to be moſt powerful; and for the time of the future effects, it is moſt like to be, when the Sun or
+<hi>Mars</hi> ſhall behold <hi>Saturn, Jupiter,</hi> or the place of the Conjunction by an evil Aſpect; that is, by Square or Oppoſition. I do not ſay that all the places aforeſaid ſhall be afflicted at one time, neither that all the Calamities aforeſaid ſhall happen to any one place; it is enough (nay and too much too) if any one of them happen in any Country or City in Chriſtendom. Thus have I given an Aſtrological account of the effects of this Conjunction, and I hope I have not varied from the Rules of Art; and here I ſhall ſpeak a little more of the effects of this Conjunction be<g ref="char:EOLhyphen"/>tween the
+<hi>Turks</hi> and Chriſtians, in what may be the event of their preſent War. In <hi>April</hi> 1684. <hi>Saturn</hi> will be again in <hi>Leo,</hi> and in ſquare to <hi>Mars;</hi> in <hi>May</hi> following, <hi>Saturn</hi> meets with a Square of the <hi>Sun; Jupiter</hi> alſo meets with the Square of both the Sun and <hi>Mars,</hi> intimating that about that time, the Turks will be active againſt the Chriſtians, and then great preparation will be making on both ſides; but both <hi>Saturn</hi> and <hi>Jupiter</hi> are weak, and there<g ref="char:EOLhyphen"/>fore no great Actions will yet be performed; but rather about
+<hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> when the Sun comes to the place of the Conjunction, or la<g ref="char:EOLhyphen"/>ter in the year, when <hi>Saturn</hi> and <hi>Jupiter</hi> meets with the body of both the Sun and <hi>Mars,</hi> and then the Turks ſuppoſe to do great matters againſt the Chriſtians: but I find no reaſon in Art, why he ſhould have any more Victory in this year, than he had in the laſt againſt the Chriſtians; neither do I ſuppoſe, that their Diffe<g ref="char:EOLhyphen"/>rences will be reconciled until the year 1687. which if it be not, then let the Turk look to be beaten to purpoſe, for then <hi>Jupiter</hi> comes into
+<hi>Sagitary,</hi> his own houſe, and then, when it is too late, the Turk may repent of his Enterpriſes.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="28" facs="tcp:151250:19"/>
+               <head>CHAP. VII.</head>
+               <argument>
+                  <p>Treating of <hi>Comets</hi> and their effects, and particularly of the <hi>Comet</hi> that appeared in the year 1680.</p>
+               </argument>
+               <head type="sub">What a <hi>Comet</hi> is.</head>
+               <p>MOſt Arologers of ancient times have told us, that a
+<hi>Comet</hi> or <hi>Blazing-Star,</hi> is a dry exhalation, viſcous and ſlimy, drawn up into the upper Region of the Air by the Sun, and there being ſet on fire by its Heat, breaks forth into a Flame, of which, there be divers ſorts, as <hi>Pliny</hi> writeth in <hi>Lib.</hi> 2. <hi>Cap.</hi> 25. <hi>de Nat.</hi> ſome whereof move Direct, ſome Retrograde, and ſome not at all, but are fixed as the other Stars.</p>
+               <p>But my Judgment of them is, that they proceed not from natu<g ref="char:EOLhyphen"/>ral Cauſes (as before mentioned) but from Divine Providence, and ſent by Almighty God, as tokens of his wrath againſt man<g ref="char:EOLhyphen"/>kind for their ſins, thereby threatning them with his Wrath and juſt Judgment, thereby to try if their obſtinate Hearts will relent and turn to the Lord, that he might turn his Judgments away from them; or elſe to be the forerunners of ſome more than ordi<g ref="char:EOLhyphen"/>nary Birth; whom God is pleaſed to honour with a new Light from Heaven; as he hath done, not only at the Birth of Chriſt, but alſo at the Birth of ſeveral Emperors, Kings and Poten<g ref="char:EOLhyphen"/>tates.</p>
+               <p>Hiſtories, ancient Writers, and common Experience in former Ages teſtifie to us, that theſe ſigns in the Heavens, or appearance of Comets, are the aſſured forerunners of ſterility of the Earth; Famine, Peſtilence, War, Alteration of Empires, Kingdoms, Statutes, Laws and Cuſtoms; Winds, Earth-quakes, Inundations, extream Heat and Drought, with grievous Diſeaſes, and ſuch like horrid evils; alſo the Birth of ſome great Emperor, King, Gover<g ref="char:EOLhyphen"/>nor, or Learned Man.</p>
+               <p>That they are the cauſe of inordinate heat, it appears by their burning in the Air, as appears viſible to the eye of the beholders.</p>
+               <p>Of Sterility, by reaſon the fatneſs of the Earth, is by them drawn out, and the Earth left dry and lean, and ſo the Moiſture
+<pb n="29" facs="tcp:151250:19"/> and convenient Humidity whereby it fructifieth, all things grow<g ref="char:EOLhyphen"/>ing thereon is extinguiſhed; whence there muſt needs follow Fa<g ref="char:EOLhyphen"/>mine and Sterility in thoſe Regions and Places, from whence the Matter and Subſtance is drawn.</p>
+               <p>And of Peſtilence and Diſeaſes, in that the Air is by them in<g ref="char:EOLhyphen"/>fected, through hot cloudy Exhalations, the which being drawn in at the Mouth of living Creatures, infecteth and killeth them; alſo by exceſſive Heat the radical Moiſture of living Creatures, whereby they ſubſiſt, is dried up, ſo they become no other than dead Carkaſſes.</p>
+               <p>Of War, Alterations in Kingdoms, States, Laws and Cuſtoms, in that when a Comet or Blazing-Star appears, there are many Exhalations in the Air, and thoſe of nature hot and dry, the which do ſo dry up the Humors in Men, and move Choler, that they are eaſily excited to Quarrels, after which, follows War and Bloodſhed; and ſo conſequently alterations in Kingdoms, States, Governments, Laws and Cuſtoms.</p>
+               <p>Alſo of Winds, for that they are of the ſame matter (ſuppoſed) whereof Comets are, and when any Comet or Blazing-Star ap<g ref="char:EOLhyphen"/>pears, many ſuch Vapors are exhaled, and when they vaniſh, they become windly Vapors.</p>
+               <p>Of Earth-quakes for the ſame reaſon, for they are occaſioned of Winds, and Winds are the occaſion of Earth-quakes.</p>
+               <p>So of Inundations for the ſame reaſon alſo, for the Comets cauſe wind, and wind cauſes the Sea to roar and rage, whence follows Inundations.</p>
+               <p>Authors give a deſcription of ſeveral ſorts of Comets both in name and form, which I ſhall here omit, and proceed to their Effects; and particularly to the Effects of that moſt amazing Co<g ref="char:EOLhyphen"/>met or Blazing-ſtar, which appeared not only to us, but to almoſt the whole World, in 1680. and it is credibly reported that this Comet was ſeen in <hi>Jamaica</hi> about the
+12<hi>th</hi> of <hi>November,</hi> in five degrees of <hi>Libra</hi> to riſe in the Eaſt, in the Morning, and moved direct as the Planets do, and ſo ran through <hi>Libra, Scorpio,</hi> and <hi>Sagitary</hi> very ſwiftly, it ran five or ſix degrees in one day; but I am not certain whether it were ſeen in <hi>England</hi> until the eleventh of <hi>December,</hi> and then my ſelf ſaw the ſtream of it in the Weſt, of at leaſt 40 degrees in length, but the Star I could not ſee, it being under the Earth; but on the ſixteenth day of the ſame month I beheld it about the middle of <hi>Capricorn,</hi> and from thence I had the ſight of it every night when the Element was clear, un<g ref="char:EOLhyphen"/>til <pb n="30" facs="tcp:151250:20"/> the 27<hi>th</hi> of <hi>January</hi> following; it was then in twelve degrees of <hi>Taurus,</hi> and by obſervation I ſometimes found the ſtream of it full ſixty degrees and upward, which is
+3600 miles, ſo that after it appeared to us in the Evening, it ran through half <hi>Capricorn,</hi> all <hi>Aquarius, Piſces, Aries,</hi> and half
+<hi>Taurus;</hi> ſo that accounting from the firſt appearing to its diſappearing, it did run through two Thirds of the Zodiac, ſo that almoſt two Thirds of the World will be partakers of its Effects. When it appeared firſt in the Morning, it was ſaid to appear very red, therefore ſuppoſed to be of the nature of <hi>Mars;</hi> but when it appeared to us in the Even<g ref="char:EOLhyphen"/>ing, it was of a pale colour like unto the Planet <hi>Saturn,</hi> and there<g ref="char:EOLhyphen"/>fore of his nature; and as it was a <hi>Saturnine</hi> Comet, we muſt ex<g ref="char:EOLhyphen"/>pect <hi>Saturnine</hi> Effects; and to diſcover what a
+<hi>Saturnine</hi> Comet Effects are, both in its own nature, and in the nature of the Signs it paſſed through, let us peruſe the ancient Writings of the
+<hi>Chalde<g ref="char:EOLhyphen"/>ans</hi> and <hi>Hebrews,</hi> which were very expert in theſe matters in for<g ref="char:EOLhyphen"/>mer Ages; and we ſhall find Comets of the nature of
+<hi>Saturn</hi> to denote many Evils, as Wants, Anxieties, Famine, Deſtruction of the Fruits of the Earth by Caterpillars, Locuſts, and ſuch like vermine; Wars, Treacheries, and Troubles; Chronick Diſeaſes, and Melancholy Diſtempers, as Quartan Agues, Falling-ſickneſs, Leproſie, Palſies, Conſumptions, and all Diſeaſes which are of long continuance; Deſtruction of Beaſts appertaining to the uſe of Man, Exceſſive cold weather in Winter, and of long conti<g ref="char:EOLhyphen"/>nuance, Clouds, Froſt and Snow more than uſually; ſtrong and high Winds, Tempeſts, Shipwrecks, with deſtruction both of Men and Fiſh, great Inundations, and Storms, to the annoyance of Cattel and of all things; Men and Kingdoms under the Dominion of
+<hi>Saturn</hi> will ſuffer detriment, and be in danger of deſtruction. Is not the moſt part of <hi>Turky</hi> under <hi>Saturn?</hi> then let them be ſure to ſuffer much by the Effects of this Comet.</p>
+               <p>And as it firſt appeared in <hi>Libra,</hi> it denotes Thefes and Robbe<g ref="char:EOLhyphen"/>ries, exceſſive Cold, the Death of ſome great Man, great Slaugh<g ref="char:EOLhyphen"/>ters, ſecret Plots and Treacheries, a ſcarcity of Rain, a Drought of Fountains, and other Waters, a want of the Fruits of the Earth, and Proviſion for the uſe of Man; great Winds, horrible Earth<g ref="char:EOLhyphen"/>quakes: and as it appeared in the Eaſt, theſe effects ſeem to ope<g ref="char:EOLhyphen"/>rate within few years after its Apparition, and places under <hi>Libra,</hi> will be the greateſt partakers of its effects.</p>
+               <p>Places under <hi>Libra</hi> are, <hi>Auſtria, Alſatia, Livonia, Sabandia, Sa<g ref="char:EOLhyphen"/>voy, Dalphinate:</hi> Cities, <hi>Lisbon, Francfort, Vienna, Arles, Spire, Pla<g ref="char:EOLhyphen"/>tentia, <pb n="31" facs="tcp:151250:20"/> Heilbarn, Landſhute</hi> and <hi>Antwerp,</hi> and ſome of theſe Places have already felt too much of the effects of this Comet.</p>
+               <p>And as this Comet paſſed through <hi>Scorpio,</hi> it ſignifies War and Rebellion againſt Kings, change and alterations in Governments, Contentions amongſt great Men, great Perils and Dangers, the death of ſome eminent Perſon, Detriment and Damage to Souldiers, Labour and Travel to all kind of Men, Miſchief to Wo<g ref="char:EOLhyphen"/>men with Child, a ſcarcity of Water, and of the Fruits of the Earth; eſpecially on Countries, Cities and Perſons under the Sign <hi>Scorpio.</hi>
+               </p>
+               <p>Places under <hi>Scorpio,</hi> I have ſhewed in the laſt Conjunction, and therefore omit them here.</p>
+               <p>Its going through <hi>Sagitary,</hi> denotes many Misfortunes to befal great Lords and Noble-men, Biſhops, Clergy-men, Scribes and Lawyers; much evil and Tribulation to be fall wiſe and Learned Men; ſometimes War and Captivity of Princes.</p>
+               <p>Places under <hi>Sagitary,</hi> are <hi>Spain, Dalmatia, Sclavonia, Hungary, Moravia, Miſnia, Celtica, Arabia Foelix;</hi> Cities,
+<hi>Toletum, Vo<g ref="char:EOLhyphen"/>lateras, Malinum, Narbonne, Avignion, Colonia, Agrippina, Buda, Collen.</hi>
+               </p>
+               <p>As this Comet paſſed through <hi>Capricorn,</hi> it ſignifies Fornication and Adultery, more than uſually committed amongſt Men and Wo<g ref="char:EOLhyphen"/>men; War, Danger to Kings and Princes by Poyſoning, or by other Violent ways; Cutting by the High-ways, Quarrels, Misfortunes and Calamities amongſt the vulgar People; it alſo denotes Perſe<g ref="char:EOLhyphen"/>cution and contempt of Religion, and Religious men; but its ap<g ref="char:EOLhyphen"/>pearing in the Weſt, may defer its operation until ſome years af<g ref="char:EOLhyphen"/>ter its apparition.</p>
+               <p>Places under <hi>Capricorn,</hi> are <hi>Thrace, Macedonia</hi> in <hi>Greece,</hi> now part of <hi>Turky, Albany, Bulgary, Saxony, Stiria, India, Orcades</hi> Iſles, <hi>Haſſia:</hi> Cities, <hi>Meklin, Cleves, Vilna, Conſtance, Auguſta, Branden<g ref="char:EOLhyphen"/>burg, Oxford.</hi>
+               </p>
+               <p>As it paſſed through <hi>Aquarius,</hi> it denotes War of long continu<g ref="char:EOLhyphen"/>ance, the death of ſome eminent Prince, or illuſtrious Perſon, and alſo of the common People; an obſcuration of the Air, much Thun<g ref="char:EOLhyphen"/>der and lightning, Peſtilence alſo, and other epidemical Diſeaſes.</p>
+               <p>Places under <hi>Aquarius,</hi> I have alſo ſhewed in the late Conjuncti<g ref="char:EOLhyphen"/>on, and thither I refer my Reader</p>
+               <p>As the Comet paſſed through <hi>Piſces,</hi> it foreſhews, that Kings ſhall war one againſt another, alſo Kindred, and ſuch as are alli<g ref="char:EOLhyphen"/>ed one to another; the Father againſt the Son, the Son a<g ref="char:EOLhyphen"/>gainſt the Father, and Brethren one againſt another, and there ſhall be much ſlaughter among men; great Contentions alſo <pb n="32" facs="tcp:151250:21"/> touching matters of Faith, Priviledges and Cuſtoms in Religion, and antient Traditions, with deſtruction of Fiſh, and dangerous Navigation.</p>
+               <p>Places under <hi>Piſces</hi> are <hi>Cilicia, Calabria, Galatia, Lycia, Garoman<g ref="char:EOLhyphen"/>tes, Pamphilia,</hi> and the higher <hi>Egypt.</hi> Cities, <hi>Alexandria, Compo<g ref="char:EOLhyphen"/>ſtella, Hiſpalis, Rhemes, Worms, Ratisbone, &amp;c.</hi>
+               </p>
+               <p>As the Comet paſſed through <hi>Aries,</hi> it ſignifies Evil and Detri<g ref="char:EOLhyphen"/>ment to Noblemen, and the Grandees of the Earth, with abun<g ref="char:EOLhyphen"/>dance of ſadneſs to the common ſort of people; a dejecting or unthroning of ſome King or Emperor in the Eaſtern parts of the World, and the promoting of ſome Ignoble man; alſo great trou<g ref="char:EOLhyphen"/>bles in the Eaſtern parts of the Earth, much War and Blood-ſhed, with the death of ſome Eminent Prince, and ſlaughter among men; much troubles, violent pain in the Head, Eyes and Brain, a Rot of Sheep, and detriment to all ſorts of ſmall Cattel.</p>
+               <p>Under <hi>Aries</hi> are <hi>Paleſtina, Syria, Swevia, Polonia minor, Denmark, Germany, France</hi> and <hi>England.</hi> Cities, <hi>Naples, Capua, Fararia, Flo<g ref="char:EOLhyphen"/>rence, Lyndavia, Padua, Brunſwick, Cracovia, Utretch, Marcelles.</hi>
+               </p>
+               <p>And as this Comet took his courſe in <hi>Taurus,</hi> it foreſhews the death of ſome Great man, miſchief and injuries to the meaner ſort of people, with captivity and diminiſhing of their Goods, detriment to great Cattel, great and tempeſtuous Winds, corrup<g ref="char:EOLhyphen"/>tion of Fruit, deſtruction of Corn, cold Winters, alſo diſeaſes proceeding from corruption of blood, as Scabs, Itch, &amp;c.</p>
+               <p>Places under <hi>Taurus</hi> have been already ſhewed in the late Con<g ref="char:EOLhyphen"/>junction, to which I refer you.</p>
+               <p>And thus I have ſhewed you the nature of this Comet, and its Signification in the Signs through which it paſſed; alſo ſome of the Countries and Cities under thoſe Signs, in which the effects will be moſt manifeſt in ſome ſort or other.</p>
+               <p>Note, that if a Comet appear in the Aſcendent of any King<g ref="char:EOLhyphen"/>dom, City, Town, or Family, or in the Aſcendent of the Revo<g ref="char:EOLhyphen"/>lution of the World, it ſignifies Detriment or Deſtruction of the thing by the Aſcendent ſignified, and the Sign thereof: And if it appear in the Mid-heaven, or in the Sign thereof of any of theſe aforefaid, it will bring danger to their Honour and Reputations in one way or other.</p>
+               <p>I come next to treat of the time when theſe Events will happen; and herein we ought to conſider, whether the Comet were Ori<g ref="char:EOLhyphen"/>ental or Occidental; for Oriental Comets ſoon ſhew their Effects, but Occidental Comets ſhew their Effects more ſlowly: this Co<g ref="char:EOLhyphen"/>met <pb n="33" facs="tcp:151250:21"/> was both Oriental and Occidental; Oriental at the begin<g ref="char:EOLunhyphen"/>ning, while it paſſed through <hi>Libra, Scorpio</hi> and <hi>Sagitary;</hi> where<g ref="char:EOLunhyphen"/>fore the effects in thoſe ſigns would quickly appear; but in <hi>Capri<g ref="char:EOLhyphen"/>corn,</hi> it became Occidental, and ſo continued until it diſappeared, whoſe effects will be deferred until a longer time.</p>
+               <p>And for the time of the duration of their effects,
+<hi>Origanus</hi> ad<g ref="char:EOLhyphen"/>mits, for every day a Comet appears, one years effect, and after this account, the effects of this Comet ſhould continue ſeventy ſix years, for it appeared from firſt to laſt ſeventy ſix days or more; but I will not preſume to affirm that it ſhall be exactly ſo; but if we take for every Sign that it paſſeth through, one years ef<g ref="char:EOLhyphen"/>fects, which I ſuppoſe we juſtly may, we ſhall not have much leſs than eight years expired, before its effects be fully over, and I think, this will prove the exacteſt meaſure of time, in the ef<g ref="char:EOLhyphen"/>fects of this Comet, and thus much of Comets in general, and of the Comet in 1680. in particular, with their ſignifications.</p>
+               <p>But what Mr. <hi>Holwel</hi> hath written of Comets, is nonſenſical, and the moſt part of it much varying from the Rules of Aſtrolo<g ref="char:EOLhyphen"/>gy, eſpecially what he mentioneth of this Comet, in his Judg<g ref="char:EOLhyphen"/>ment of the year 1683, which was one great cauſe of my wri<g ref="char:EOLhyphen"/>ting, to ſhew the World the true ſignification of Comets, accord<g ref="char:EOLhyphen"/>ing to what Authors (more experienced than Mr. <hi>Holwel</hi>) and daily experience have ſhewed.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <argument>
+                  <p>Treating of, and Confuting moſt of <hi>Mr. Holwels</hi> Judgments on the State of the years from 1683. unto the year 1700. mentioned in his <hi>Cataſtrophe Mundi.</hi>
+                  </p>
+               </argument>
+               <p>MR. <hi>Holwel</hi> in his <hi>Cataſtrophe Mundi,</hi> ſpeaking of the Con<g ref="char:EOLhyphen"/>junction of <hi>Saturn</hi> and <hi>Jupiter,</hi> ſaith, according to natural cauſes, Perſons ſignified by the Sun ſhould be afflicted in Perſon with Horror and Amazement, and ſhall be in danger of their Lives, Honour and Eſtate, and be forced to fly for Safeguard; for by bad advice, they ſhall attempt to do that which they ſhall never attain to, by which means, they ſhall bring themſelves and
+<pb n="34" facs="tcp:151250:22"/> Fame to deſtruction for ever; and therefore he adviſeth Perſons to beware, that have ten or eleven Degrees of <hi>Leo</hi> aſcending.</p>
+               <p>And in his judgment of the year 1683. he ſaith, that a very great Perſon of <hi>Europe</hi> that hath <hi>Leo</hi> aſcending, will be afflicted and flung into a great many Troubles, with the death of ſome of his Children, Loſs of Honour and eſteem in the World. Sure Mr. <hi>Holwel</hi> hath forgotten that he himſelf hath <hi>Leo</hi> aſcending, that he judgeth ſo hard of perſons born under it; but I could wiſh that he had named what great Perſons of <hi>Europe</hi> he meaneth, that we might have obſerved the Event; but I ſhall here (as I have already) ſhew them, that great Perſons born under <hi>Leo,</hi> ſhall not by the effect of this Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> receive Detri<g ref="char:EOLhyphen"/>ment or Loſs, either of Honour or Eſtate; but on the contrary, they ſhall gain both Riches and Honour, by the effects of this Conjunction, though Mr. <hi>Holwel</hi> gained the diſpleaſure of the Honourable <hi>E. A.</hi> Eſquire, to whom he confidently dedicated his Book; although he never knew him, which nonſenſical Stuff be diſliking, made the <hi>Epiſtle Dedicatory</hi> to be taken out again; this was done when <hi>Saturn</hi> tranſited <hi>Leo,</hi> Mr. <hi>Holwels</hi> Aſcendant, as alſo
+<hi>Saturn</hi> did, when the ſaid Book was written.</p>
+               <p>Neither do I judge of the death of any Prince in
+<hi>Europe,</hi> that hath about thirteen degrees of <hi>Virgo</hi> aſcending, though it be ſaid in <hi>Cataſtrophe Mundi,</hi> if there be a Prince in <hi>Europe,</hi> that hath about thirteen degrees of <hi>Virgo</hi> aſcending, he ſhould in the year 1684. return to the ground from whence he was taken; for I find no ſuch matter by the Rules of Aſtrology, as may ſig<g ref="char:EOLhyphen"/>nifie the death of any ſuch Prince; but I pray for all Chriſtian Princes, and particularly for ſuch as have <hi>Virgo</hi> or <hi>Leo</hi> aſcending on their Horoſcope.</p>
+               <p>And whereas Mr. <hi>Holwel</hi> ſaith in his judgment of the year 1698. that <hi>Saturn,</hi> in oppoſition to the place of the Conjunction 1682. and <hi>Jupiter</hi> in ſquare thereto, threatens
+<hi>Italy</hi> with no leſs than Confuſion, and utter Subverſion of the triple Crown; and although it may not be fully compleated in this year, yet, ſaith he, this year ſets a great ſay to it, and in the following year its full deſtruction. And that then the power of <hi>France</hi> ſhall be brought low, and many thouſands of his Subjects deſtroyed, through the pride of an inſulting King, and envy of the Roman Clergy. But if this Oppoſition and Square be the cauſe of all this, why had not <hi>Rome</hi> been deſtroyed in the year 1639. when <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> 
+                  <pb facs="tcp:151250:22"/> was in oppoſition to the place of the Conjunction of <hi>Saturn</hi> and
+<hi>Jupiter</hi> in <hi>Leo,</hi> which was in the year 1623. I have ſearched into Hiſtory, and found that there was War at that time between the
+<hi>Swedes</hi> and the <hi>Germans,</hi> and between the <hi>French</hi> and the <hi>Ita<g ref="char:EOLhyphen"/>lians,</hi> but not any thing to the Deſtruction of any Nation or People, yet many eminent Perſons died about that time, ſome in War, and ſome in Peace, and many ſtrange Accidents hapned; and I ſuppoſe, near the like may happen now; but little or no<g ref="char:EOLhyphen"/>thing of what Mr. <hi>Holwel</hi> writes in all his judgment on his ſeve<g ref="char:EOLhyphen"/>ral years will prove true, there being no grounds in Aſtrology for them, but what his own fantaſtical Pate hath imagined, to raiſe himſelf a Fame in the World, by predicting Lyes, and to deceive the World by Deluſions; for I will appeal to all Artiſts what Rules there are in Aſtrology, whereby to predict (as Mr <hi>Holwel</hi> hath) that in the Eaſtern part of the World, a whole Army ſhould be deſtroyed with fire from Heaven, with their Wealth and Treaſure; or that there ſhould be War and Plagues over the face of the whole Earth, and that there ſhould be ſo many men deſtroyed that there ſhould not be men enough left to get in Har<g ref="char:EOLhyphen"/>veſt, as he predicteth in his judgment of the year 1699. therefore I aver all that he ſpeaks of that year and the next, to be abſolutely falſe, nonſenſical and erroneous; in the next year (with which he concludeth his Book) he ſaith, that <hi>Rome</hi> is now deſtroyed, and <hi>Peters</hi> Seat thrown down, and the Converſion of the <hi>Turks</hi> and <hi>Jews</hi> ſoon follows, and Religion (but what Religion he knows not) truly preached univerſally over all the World, ſure this muſt not be Aſtrology, but Prophecy; and if Prophecy, then Mahometal, and if Mahometal, then lying like
+<hi>Baal</hi>'s Pro<g ref="char:EOLhyphen"/>phets, and ſo deſerving the reward that they received from <hi>Elijah.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>THe Author hereof calculateth Nativities exactly, by knowing the Hour of any ones Birth; ſhewing thereby the general Fate of the Native, and the greateſt Accidents that will happen to any one through the whole courſe of his Life, and the time when they will happen; whereby one may withſtand much evil, and augment the good.</p>
+            <p>He alſo teacheth the whole Art of Aſtrology; and by Aſtrology, reſolveth all Lawful Queſtions.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:151250:23"/>
+            <head>This for Mr. <hi>John Gadbury,</hi> at his Houſe in
+<hi>Brick-Court</hi> in <hi>Weſtminſter.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAve you ſeen <hi>Saunder's Apollo Anglicanus</hi> for the year
+1683? Written (as I ſuppoſe) by Mr. <hi>Henry Coley,</hi> which if you have, I queſtion not, but that you have ſeen therein, how he unworthily derides both you and me, about your Calculation of your ten and twenty-years
+<hi>E<g ref="char:EOLhyphen"/>phemerides;</hi> which I dare preſume, himſelf is no way able to com<g ref="char:EOLhyphen"/>poſe the like, or any that ſhall have ſo much truth in it as thoſe have; as for the <hi>Ephemerides</hi> of ten years, which you calculated your ſelf; he ſaith it was handſomly Tranſcribed from <hi>Hecker,</hi> which that I ſuppoſe to be a very great Miſtake in Mr. <hi>Coley,</hi> and therefore unworthily taxed by him in an Almanack; for I have heard you ſay, when you wrote the ten years <hi>Ephemerides,</hi> you had not <hi>Heckers Ephemerides</hi> in your Houſe, until ſix years thereof was performed, which I dare believe you had not; for I have been acquainted with you many years before that time, and I never had ſeen <hi>Heckers Ephemerides</hi> in your Study, though I have peruſed many of your Books there, nor yet did I ever hear you ſay you had it, till ſince; and as for the twenty years
+<hi>Ephemerides,</hi> which was by me calculated by your Directions, it is his (the ſaid <hi>Coleys</hi>) pleaſure to ſay, that it is an inartificial Calculation, and done by adding one mi<g ref="char:EOLhyphen"/>nute 56 Seconds, or 50 Seconds, or 48 Seconds, (or rather he knows not what) to the Suns place four years before, and ſo the Moons place to be taken on the firſt of <hi>January,</hi> from her place the 27th. of <hi>February,</hi> twelve years before, by adding ſome Signs, Degrees and Minutes thereto, and the Places of the reſt of the Planets, much after the ſame method, with the help of <hi>Argol,</hi> and ſo impoſed upon the World, under very plauſible pretentions; becauſe, ſaith he, the Author is aſhamed to ſhew his Tables. But I would have Mr.
+<hi>Coley,</hi> and all others know, that he is miſtaken in his judgment, for there was much more labour beſtowed on the Calcu<g ref="char:EOLhyphen"/>lation thereof, and many of the Calculations I have yet by me to be ſeen. But by what Tables I proceeded, I will not yet oblige Mr. <hi>Coley</hi> ſo much as to tell him; but I would have him beſtow the like pains, and to calculate the Conjunctions of
+<hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Leo,</hi> and tell me whoſe Ta<g ref="char:EOLhyphen"/>bles will come nearer to the obſerved Truth, than that
+<hi>Ephemerides</hi> did; and alſo in the Conjunction of <hi>Mars</hi> and
+<hi>Venus,</hi> which was on the 28th. of <hi>February</hi> 1684. for I did with mine own eyes behold that Conjunction, and it was ſo nigh, that
+<hi>Venus</hi> did eclipſe part of the body <pb facs="tcp:151250:23"/> of <hi>Mars;</hi> now had the ſaid <hi>Ephemerides</hi> been calculated by the Rules that he preſcribed, or otherwiſe tranſcribed from <hi>Argol,</hi> it would have differed very much; but I could wiſh Mr. <hi>Coley</hi> would preſent the World with a better <hi>Ephemerides,</hi> and then I might have no cauſe to mention this following Verſe.</p>
+            <q>
+               <l>
+                  <hi>Some are quick-ſighted faults to find,</hi>
+               </l>
+               <l>
+                  <hi>But to perform, drowzie and blind.</hi>
+               </l> 
+            </q>
+            <p>He alſo ſaith that neither the Author, nor his Pupil (meaning me) hath yet learned to calculate the Eclipſes of the Luminaries, or elſe that Task was too hard for them (as for being your Pupil, I own it) and indeed, I ſhould think my time ill beſtowed (and my ſelf unworthy of being your Pu<g ref="char:EOLhyphen"/>pil) if I could not calculate an Eclipſe as well as he; but I ſhall at preſent ſay no more of him, but conclude with this Aphoriſm:</p>
+            <q>
+               <hi>No wonder if ſome through Ignorance or Envy diſcommend, thoſe Performances which thoſe more learned as highly commend.</hi>
+            </q>
+            <p>Sir, I deſire your Anſwer, by the firſt opportunity, and you will very much oblige</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>your Real Friend and Humble Servant <hi>JOHN MERRIFIELD.</hi>
+               </signed> 
+               <dateline>From my Houſe at the <hi>Hand</hi> and
+<hi>Pen</hi> at the Lower end of <hi>Horſ<g ref="char:EOLhyphen"/>lydown,</hi> near <hi>Dock-head Southwark, London.</hi>
+                  <date>
+                     <g ref="char:Moon">☽</g> 
+                     <hi>March</hi> the 3<hi>d.</hi>
+1683/4.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Theſe for Mr. <hi>John Merrifield,</hi> at the <hi>Hand</hi> and <hi>Pen</hi> near <hi>Dock-head</hi> in <hi>Horſlydown, Southwark.</hi>
+            </head>
+            <opener>
+               <salute>Good Mr. <hi>Merrifield,</hi>
+               </salute>
+            </opener>
+            <p>YOurs of the third Inſtant I received, wherein you have invited me to a View of what I had (long ſince) willingly paſſed over in ſilence. I was never good at quarrelling in my more active and pregnant years, and now, my long acquaintance with the accuſtomed <hi>Scandals</hi> of
+<hi>Invidious <pb facs="tcp:151250:24"/> Perſons,</hi> hath made Conteſts even hateful to me. Not but that my <hi>Sence</hi> of things is as quick and diſtinguiſhing as ever, but my <hi>Reaſon</hi> being bet<g ref="char:EOLhyphen"/>ter informed, I can with patience ſuffer an <hi>Aſs</hi> cauſeleſly to kick at me, rather than transform my ſelf into his <hi>Fellow Aſs,</hi> and fall a kicking for company.</p>
+            <p>Your Gueſs at the Author of <hi>Apollo Anglicanus,</hi> 1683. is not only happy, but true, <hi>viz.</hi> that it is not <hi>R. Sanders,</hi> but
+<hi>H. Coley,</hi> and therefore it had been better dated from <hi>Baldwins Gardens,</hi> than from <hi>Ouſton</hi> in <hi>Leiceſterſhire;</hi> for if <hi>Cambden</hi> may be credited, there is no ſuch place in all that County, and conſequently no ſuch man as <hi>R. San<g ref="char:EOLhyphen"/>ders</hi> (honeſtly) to be found to own himſelf the Author of that ſimple ſcan<g ref="char:EOLhyphen"/>dalous Almanack.</p>
+            <p>As for <hi>H. Coley</hi> (the rightful <hi>Dad</hi> of that miſhapen <hi>Brat</hi>) if after the ſeveral Civilities I have afforded him, in uſing him courteouſly, when at any time he came unto me for Inſtruction, and anſwering ſundry of his Letters for his information in Art; I ſay, if after theſe, and my many Friendſhips to him, he, in requital, revile me, I cannot help that. It was in my power to teach him ſomething of <hi>Aſtrology,</hi> but he hath another Maſter which inſtructs him to be <hi>Ungrateful,</hi> and tutors him to Calumniate his
+<hi>Benefactors.</hi> For the good Opinion the Man hath of himſelf, and his own (ſuppoſed) Abilities, I wonder nothing at it; that being a peculiar Vertue, and only to be found among the Sons of In<g ref="char:EOLhyphen"/>gratitude.</p>
+            <p>The Man, as you well obſerved, hath boldly attacked us both, and
+<hi>Me</hi> in particular, he hath been <hi>Pickeering</hi> at a dozen years together; but why he ſhould make <hi>You</hi> to ſhare in the Scandals of his ſcurrilous Pen, I underſtand not, nor yet do I juſty know wherefore he is ſo impu<g ref="char:EOLhyphen"/>pudent and daring with <hi>Me,</hi> from the Benefit of whoſe
+<hi>Labours</hi> he hath eaten his <hi>Bread</hi> many years; and the very
+<hi>Books</hi> he now quarrels at (I mean the <hi>two Ephemerides,</hi> which you take notice of) are the <hi>Foun<g ref="char:EOLhyphen"/>dation</hi> of his daily <hi>Dole</hi> and
+<hi>Drinking.</hi>
+            </p>
+            <p>But now, Sir, ſince you have by your obliging Letter rouzed me up to a Conſideration of the <hi>Malice</hi> of this impertinent Fellow (which I had ſo long overlooked, and deſigned ever ſo to have done; but for this your Notice of theſe his continued <hi>Scomma's</hi> and
+<hi>Scurrilities</hi>) I ſhall here in<g ref="char:EOLhyphen"/>form you, as briefly and as fully as I can, of the ground of this envious Mans <hi>Prejudice</hi> to <hi>Me</hi> (for every Action hath either a real or pretended Reaſon from which it derives) which is this, [and let him ſay the contrary if he can or dare.]
+<hi>viz.</hi>—When he was upon publiſhing his <hi>Clavis Aſtrolo<g ref="char:EOLhyphen"/>giae</hi> (as he calls it) he very confidently ſent to me to give him an <hi>Enco<g ref="char:EOLhyphen"/>mium</hi> thereunto, without letting me ſee what he had written, that I <pb n="39" facs="tcp:151250:24"/> might know what I
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; which begat in <hi>Me</hi> a deſire to peruſe his ſaid <hi>Clavis,</hi> the better
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Me</hi> to ſerve him. This was ſo reaſona<g ref="char:EOLhyphen"/>ble that he could not deny it,
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> accordingly he ſent me (by an ingenious <hi>Apothecary,</hi> and Neighbour
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) <hi>ſeveral</hi> of his
+<hi>Printed Sheets,</hi> which when once I had viewed,
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and my forward <hi>Author</hi> to have taken much out of my <hi>Doctrine o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ativities</hi> to furniſh his ſaid <hi>Clavis</hi> withal, and never ſo much as mentioned from whom, or whence he had it. And not content to play the ungrateful
+<hi>Plagiary</hi> thus with me; he alſo had <hi>ſtolen</hi> my
+<hi>Title</hi> too, and affixed it to the ſecond part of his ſaid
+<hi>Clavis,</hi> calling it <hi>Genethlialogia.</hi>
+            </p>
+            <p>Seeing my ſelf thus unworthily abuſed, I did deny to give him an <hi>En<g ref="char:EOLhyphen"/>comium,</hi> unleſs he would <hi>new Print</hi> his ſaid
+<hi>Title.</hi>—This (Sir) is the real Ground and Foundation of this Mans
+<hi>many years Quarrels</hi> againſt me, and nothing elſe that I know of.</p>
+            <p>The Anſwer which you have made to his preſent Cavils in the Engliſh <hi>Apollo</hi> 1683. is enough, if not too much; I am ſure, more than your cauſeleſs <hi>Adverſary</hi> can juſtly reply to, without confeſſing his <hi>Error.</hi> And to deal ſincerely with you, I did not eſteem him worthy of either your <hi>Notice</hi> or <hi>Animadverſion. Non Obſtante,</hi> the great Flattery with which his Friend <hi>J. Kendal</hi> hath blown him up, even to a degree near burſting; he being of himſelf, naturally, like the <hi>Toad</hi> in the Fable, aiming to ſwell into an
+<hi>Ox.</hi>
+            </p>
+            <p>And ſince my Hand is entred upon this unpleaſant Subject let me not tire your Patience, I pray you, if I obſerve further to you, a
+<hi>Pact</hi> or <hi>Confederacy</hi> between this <hi>Kendal</hi> and
+<hi>Coley,</hi> to ſcratch and claw each other, as if they had both come out of ſome loathſome <hi>Lazaretto,</hi> full of the <hi>Itch</hi> and
+<hi>Scurvy.</hi> Mr. <hi>Coley</hi> is made the <hi>Hannibal</hi> of
+<hi>A<g ref="char:EOLhyphen"/>ſtrology;</hi> but Mr. <hi>Kendal</hi> (in modeſty) refuſes to be the <hi>Phormio</hi> (for<g ref="char:EOLhyphen"/>ſooth! for fear of being a <hi>Fool</hi>) yet he reads <hi>Lectures</hi> aloud in his admired <hi>Hannibal's</hi> Praiſe. Mr.
+<hi>Coley</hi> on the other ſide (following the Adage of <hi>Mulus Mulum Scabit</hi>) no<g ref="char:EOLhyphen"/>tably reveres Mr. <hi>Kendal</hi> for his great Parts; particularly for his <hi>new Diſcovery</hi> of the <hi>Meaſure of time</hi> in Nativities, the ground whereof, he acknowledgeth to have ta<g ref="char:EOLhyphen"/>ken from Mr.
+<hi>Coley's Clavis;</hi> and in the ſtrength of this <hi>Diſcovery</hi> of our new <hi>Colum<g ref="char:EOLhyphen"/>bus,</hi> the <hi>Almageſt</hi> and <hi>Quadripartite</hi> are made (between them) to <hi>Bow</hi> and <hi>do Ho<g ref="char:EOLhyphen"/>mage</hi> to the
+<hi>ones</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and the <hi>others Clavis.</hi> The Fam'd Sir <hi>C. Heydon,</hi> and excellent <hi>Valentine Naybode,</hi> are both <hi>voted uſeleſs,</hi> and allowed only to have been <hi>Good</hi> in their time, but now, like an <hi>old Almanack,</hi> out of Date. Thus theſe Sons of I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pudence and Folly have boldly taken upon them not only to
+<hi>beſpatter</hi> thoſe <hi>Artiſts</hi> to whom they are beholding, of this <hi>preſent Age;</hi> but caſt <hi>Dirt</hi> alſo in the
+<hi>Faces</hi> of thoſe Anti<g ref="char:EOLhyphen"/>quated <hi>Luminaries</hi> of <hi>Elder times;</hi> in compariſon of whom, theſe <hi>Scioli</hi> are ſcarce worthy to be accounted ſo much as <hi>Nebuloſe Stars.</hi>
+            </p>
+            <p>Further, were it proper for a Letter, I would demand of this
+<hi>Coley,</hi> in caſe he be ſo great an <hi>Artiſt,</hi> as Mr.
+<hi>Kendal</hi> pretends him to be (1.) Where he finds <hi>Cardan</hi> ſaying, <hi>Nemo particularia predicit?</hi> as he hath more then once affixed upon him in Print, <hi>Car<g ref="char:EOLhyphen"/>dan</hi> 
+               <pb n="40" facs="tcp:151250:25"/> being the
+<hi>moſt particular</hi> in his judgment of
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rologer whatever. (2.) Out of what Astrological Author it is, that he undert<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and
+<hi>Tutor Princes,</hi> as in his <hi>Apollo Anglicanus</hi> 1682. ſaying—<hi>It is <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for Princes to fortifie them<g ref="char:EOLhyphen"/>ſelves with the Love of their People.</hi> And
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>That</hi> (in that year
+1682.) <hi>many Diſſembling Political Stratagems among
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, to keep up their Prerogatives,</hi> &amp;c.—The Epistle to <hi>Oates's</hi> Narrative
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (but neither <hi>Ptolemy, Haly</hi> or <hi>Bo<g ref="char:EOLhyphen"/>natus</hi>) <hi>teach ſuch like Aſtrology;</hi> but
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of this in this place. (3.) Wherefore doth he take ſuch Pains in his (Fooliſh) <hi>Merlyn</hi> of this year, to <hi>ſcratch</hi> and <hi>claw Hol<g ref="char:EOLhyphen"/>wel,</hi> taking him roughly by the <hi>Hair</hi> and <hi>Ears</hi> with <hi>one Hand,</hi> and gently leading him, for fear of falling, with the <hi>other.</hi> (4.) What Authority
+<hi>He</hi> hath (and from whom he de<g ref="char:EOLhyphen"/>rives it) to ſit and <hi>Cenſure</hi> whom he pleaſes, <hi>Voting</hi> what is, and what is not <hi>fit</hi> to be
+<hi>Printed</hi> upon the great Triple Conjunction of ♄. and ♃. in ♌. thereby <hi>prejudging</hi> not only <hi>my</hi> promiſed
+<hi>Pains</hi> upon that noble Subject, but anothers deſigned Endeavours alſo as <hi>uſeleſs;</hi> Mr. <hi>Lilly</hi> and Mr. <hi>Edlin</hi> (he ſays) having done <hi>enough</hi> upon the like already. And I believe they have ſo indeed, for <hi>his Underſtanding,</hi> and <hi>too much</hi> for
+<hi>Mine,</hi> or any other <hi>Honeſt</hi> Mans. There being plain
+<hi>Treaſon</hi> to be found in <hi>one</hi> of them, and nearly the
+<hi>ſame</hi> in the <hi>other.</hi> Behold the <hi>Authors</hi> that this our triumphant <hi>Hannibal</hi> trades in!</p>
+            <p>I might have noted many more ridiculous, vain and trifling things that this <hi>Coley</hi> is guilty of, and render you an Account of the many
+<hi>ſlovenly Artifices</hi> which he hath made uſe of (beſides what you complain of in your Letter) to <hi>vilify</hi> and <hi>ſcandalize me;</hi> but theſe things cannot eaſily be brought into a Letter, wherefore, I preſume, you will not now expect it from me. Sir, to conclude (for 'tis time now to releaſe you) I return you my thanks for the juſtice you have done both to me and your ſelf alſo, in <hi>retorting</hi> thoſe <hi>brutiſh and ungrateful Reproaches</hi> (brought againſt my <hi>thirty years Ephemerides</hi> (in the latter whereof, you were eminently
+<hi>aſſiſting</hi> to me) upon the <hi>Head</hi> of the malicious
+<hi>Author</hi> of them: And perceiving its your deſign to print this Letter of mine, together with your own to me, as an Appendix to your ingenious
+<hi>Cataſtaſis Mundi,</hi> I leave it wholly to you to do therein what you pleaſe; the matters here mentioned being moſt punctually and
+<hi>religiouſly true.</hi> So wiſhing you <hi>ſucceſs</hi> in all your worthy and <hi>Lawful</hi> Attempts for the Promotion of <hi>Art,</hi> and detection of <hi>Cheats</hi> and <hi>Impoſtors,</hi> I remain,</p>
+            <closer>
+               <salute>(SIR)</salute>
+               <signed>Yours and Aſtrologies Servant, <hi>JOHN GADBURY.</hi>
+               </signed> 
+               <dateline>
+                  <date>♃ March 6. 1683/4.</date>
+                  <hi>Brick-Court,</hi> by the <hi>Deans-yard, Weſt<g ref="char:EOLhyphen"/>minſter.</hi>
+               </dateline>
+            </closer>
+         </div>
+         <div type="notice">
+            <head>ADNERTISEMENT.</head>
+            <p>THe firſt Volume of <hi>Collection of Letters for Improvement of Husbandry and Trade,</hi> being finiſhed, the ſecond is carrying on, and will be endeavoured to be made uſeful for all ſorts of People, by <hi>John Houghton,</hi> Fellow of the Royal Society. To be ſold by <hi>John Lawrence</hi> at the <hi>Angel</hi> in <hi>Cornhill,</hi> and ſeveral other Bookſellers.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
